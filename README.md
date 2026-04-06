@@ -1,7 +1,3 @@
-# MG Car AI Agent
-
-An AI-powered assistant that helps customers learn about MG Motor cars, get recommendations, pricing information, features, and answers to FAQs.
-
 ## Architecture
 
 The system follows a Retrieval-Augmented Generation (RAG) pipeline:
@@ -19,23 +15,6 @@ User Query → Embedding → Retrieve → LLM
 - **Feature Details**: Explains car specifications and features
 - **FAQ Answers**: Answers common questions about MG cars, booking, service
 - **Charging Infrastructure**: Information about MG's EV charging network
-
-## Setup
-
-1. Install dependencies:
-   ```bash
-   uv sync
-   ```
-
-2. Set up your Google API key in `.env`:
-   ```
-   GOOGLE_API_KEY=your_api_key_here
-   ```
-
-3. Run the agent:
-   ```bash
-   uv run python main.py
-   ```
 
 ## Data Sources
 
