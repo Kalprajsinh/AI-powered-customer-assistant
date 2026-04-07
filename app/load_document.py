@@ -6,7 +6,6 @@ from pypdf import PdfReader
 
 
 def load_documents(data_folder: str) -> list[Document]:
-    """Load all documents from the data folder."""
     documents = []
     data_path = Path(data_folder)
 

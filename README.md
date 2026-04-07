@@ -3,10 +3,23 @@
 The system follows a Retrieval-Augmented Generation (RAG) pipeline:
 
 ```
-Documents → Chunking → Embeddings → Vector DB
-                                    ↓
-User Query → Embedding → Retrieve → LLM
+Documents -> Load/Transform -> Chunking -> Embeddings -> FAISS Vector Store
+                              ↑
+                        Redis Chat History
+                              ↑
+User Query -> Retrieval -> LLM -> Answer
 ```
+## 📸 Project Screenshots
+
+<p align="center">
+  <img src="image\1.png" width="45%" />
+  <img src="image\2.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="image\3.png" width="45%" />
+  <img src="image\4.png" width="45%" />
+</p>
 
 ## Features
 
@@ -38,6 +51,6 @@ Type 'quit' to exit the interactive mode.
 ## Technical Details
 
 - **Embeddings**: Sentence Transformers (all-MiniLM-L6-v2)
-- **Vector Store**: ChromaDB
+- **Vector Store**: FAISS
 - **LLM**: Google Gemini 1.5 Pro
 - **Chunking**: Recursive character splitter (1000 chars, 200 overlap)

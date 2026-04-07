@@ -6,7 +6,7 @@ import os
 
 def main():
 
-    persist_dir = "./chroma_db"
+    persist_dir = "./faiss_db"
 
     print("Setting up AI agent...")
     vector_store = get_vector_store(persist_dir)
@@ -29,17 +29,17 @@ def main():
     for query in example_queries:
         print(f"- {query}")
 
+    session_id = "test_1"  
     while True:
         query = input("\nAsk a question (or 'quit' to exit): ")
         if query.lower() == 'quit':
             break
 
         try:
-            result = ask_question(client, vector_store, query)
+            result = ask_question(client, vector_store, query, session_id=session_id)
             print(f"\nAnswer: {result['result']}")
             # print(f"\nSources: {[doc.metadata['source'] for doc in result['source_documents']]}")
             print('=='*24)
-            # print(f"prompt = ",result['prompt'])
         except Exception as e:
             print(f"Error: {e}")
 
