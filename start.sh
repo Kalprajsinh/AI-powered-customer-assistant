@@ -7,4 +7,4 @@ redis-server --save "" --appendonly no --protected-mode no &
 sleep 1
 
 # Start FastAPI app
-exec uv run uvicorn app.server:app --host 0.0.0.0 --port 8000
+exec uv run uvicorn app.server:app --host 0.0.0.0 --port $PORT
