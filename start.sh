@@ -1,10 +1,9 @@
 #!/bin/sh
 
-# Start Redis in the background and then launch FastAPI
-redis-server --bind 127.0.0.1 --save "" --appendonly no --protected-mode no &
+# Start Redis
+redis-server --bind 127.0.0.1 --protected-mode yes &
 
-# Give Redis a moment to start up
 sleep 1
 
-# Start FastAPI app
-exec uv run uvicorn app.server:app --host 0.0.0.0 --port $PORT
+# Start FastAPI
+exec uvicorn app.server:app --host 0.0.0.0 --port ${PORT:-10000}
