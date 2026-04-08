@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # Start Redis in the background and then launch FastAPI
-redis-server --save "" --appendonly no --protected-mode no &
+redis-server --bind 127.0.0.1 --save "" --appendonly no --protected-mode no &
 
 # Give Redis a moment to start up
 sleep 1

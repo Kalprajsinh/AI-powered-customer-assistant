@@ -50,8 +50,8 @@ Context:
     )
 
     return {
-        # "result": response.content,
-        "result": response,
+        "result": response.content,
+        # "result": response,
         "source_documents": docs,
         "prompt": query
     }
