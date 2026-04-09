@@ -4,10 +4,14 @@ from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain_core.runnables.history import RunnableWithMessageHistory
 from langchain_redis import RedisChatMessageHistory
 
-redis_host = os.getenv("REDIS_HOST", "localhost")
-redis_port = int(os.getenv("REDIS_PORT", 6379))
-
-redis_client = redis.Redis(host=redis_host, port=redis_port, decode_responses=True)
+redis_url = os.getenv("REDIS_URL")
+ 
+if redis_url:
+    redis_client = redis.Redis.from_url(redis_url, decode_responses=True)
+else:
+    redis_host = os.getenv("REDIS_HOST", "localhost")
+    redis_port = int(os.getenv("REDIS_PORT", 6379))
+    redis_client = redis.Redis(host=redis_host, port=redis_port, decode_responses=True)
 
 def get_redis_history(session_id: str):
     return RedisChatMessageHistory(
