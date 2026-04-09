@@ -1,23 +1,20 @@
-FROM python:3.13-slim
+# Use Python base image
+FROM python:3.11-slim
 
+# Set working directory
 WORKDIR /app
 
-# Install uv
-RUN pip install --no-cache-dir uv
+# Copy requirements first (for caching)
+COPY requirements.txt .
 
-# Install runtime dependencies
-RUN apt-get update && apt-get install -y --no-install-recommends \
-    curl \
-    redis-server \
-    && rm -rf /var/lib/apt/lists/*
+# Install dependencies
+RUN pip install --no-cache-dir -r requirements.txt
 
-COPY pyproject.toml uv.lock ./
-RUN uv sync --frozen --no-dev
+# Copy all project files
+COPY . .
 
-COPY . ./
-
-RUN chmod +x /app/start.sh
-
+# Expose port
 EXPOSE 8000
 
-CMD ["/app/start.sh"]
+# Run FastAPI app
+CMD ["uvicorn", "app.server:app", "--host", "0.0.0.0", "--port", "8000"]

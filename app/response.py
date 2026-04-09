@@ -4,7 +4,7 @@ from langchain_core.runnables.history import RunnableWithMessageHistory
 from langchain_redis import RedisChatMessageHistory
 
 # Redis client
-redis_client = redis.Redis(host="localhost", port=6379, decode_responses=True)
+redis_client = redis.Redis(host="redis", port=6379, decode_responses=True)
 
 def get_redis_history(session_id: str):
     return RedisChatMessageHistory(
