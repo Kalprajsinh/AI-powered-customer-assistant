@@ -8,7 +8,6 @@ env/
 venv/
 venv.bak/
 Dockerfile
-requirements.txt
 *.db
 chroma_db/
 faiss_db/

@@ -1,0 +1,76 @@
+{
+  "brand": "MG Motor India",
+  "category": "support",
+  "data": [
+    {
+      "title": "Customer Care Helpline",
+      "content": "MG Motor India provides a dedicated customer care helpline for queries, complaints, and assistance. Customers can call 1800-100-6464 for support.",
+      "tags": ["helpline", "customer care", "support"],
+      "availability": "24x7",
+      "source": "https://www.mgmotor.co.in"
+    },
+    {
+      "title": "Roadside Assistance (RSA)",
+      "content": "24x7 roadside assistance is available for breakdowns, towing, battery issues, and emergency situations across India.",
+      "tags": ["rsa", "emergency", "breakdown"],
+      "availability": "24x7",
+      "source": "https://www.mgmotor.co.in/service"
+    },
+    {
+      "title": "Email Support",
+      "content": "Customers can contact MG Motor India via email for detailed queries, complaints, and documentation support.",
+      "tags": ["email", "support", "query"],
+      "availability": "Business hours",
+      "source": "https://www.mgmotor.co.in"
+    },
+    {
+      "title": "Live Chat Support",
+      "content": "MG Motor India offers live chat support through its official website to assist customers in real time.",
+      "tags": ["chat", "live support", "website"],
+      "availability": "Working hours",
+      "source": "https://www.mgmotor.co.in"
+    },
+    {
+      "title": "Dealer Assistance",
+      "content": "Authorized MG dealerships provide in-person support for vehicle servicing, test drives, and customer queries.",
+      "tags": ["dealer", "showroom", "assistance"],
+      "availability": "Dealer working hours",
+      "source": "https://www.mgmotor.co.in"
+    },
+    {
+      "title": "Service Booking Support",
+      "content": "Customers can get help with booking service appointments through the website, app, or dealership support.",
+      "tags": ["booking", "service", "appointment"],
+      "availability": "24x7 (online)",
+      "source": "https://www.mgmotor.co.in/service"
+    },
+    {
+      "title": "Warranty Support",
+      "content": "MG provides warranty-related assistance including claims, coverage details, and extended warranty support.",
+      "tags": ["warranty", "claims", "coverage"],
+      "availability": "Business hours",
+      "source": "https://www.mgmotor.co.in"
+    },
+    {
+      "title": "Mobile App Support",
+      "content": "MG connected car mobile app provides support features like vehicle tracking, service alerts, and remote diagnostics.",
+      "tags": ["mobile app", "connected car", "tracking"],
+      "availability": "24x7",
+      "source": "https://www.mgmotor.co.in"
+    },
+    {
+      "title": "Complaint Resolution",
+      "content": "MG Motor India offers structured complaint resolution with escalation support for unresolved issues.",
+      "tags": ["complaint", "resolution", "escalation"],
+      "availability": "Business hours",
+      "source": "https://www.mgmotor.co.in"
+    },
+    {
+      "title": "FAQ Support",
+      "content": "Customers can access frequently asked questions on the website for quick self-service support.",
+      "tags": ["faq", "self-service", "help"],
+      "availability": "24x7",
+      "source": "https://www.mgmotor.co.in/tools/faq.html"
+    }
+  ]
+}

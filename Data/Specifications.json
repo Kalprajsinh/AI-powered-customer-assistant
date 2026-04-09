@@ -1,0 +1,94 @@
+{
+  "brand": "MG Motor India",
+  "cars": [
+    {
+      "name": "MG Hector",
+      "category": "SUV",
+      "fuel_type": ["Petrol", "Diesel"],
+      "engine": {
+        "petrol": "1.5L Turbo",
+        "diesel": "2.0L"
+      },
+      "power": {
+        "petrol": "143 PS",
+        "diesel": "170 PS"
+      },
+      "torque": {
+        "petrol": "250 Nm",
+        "diesel": "350 Nm"
+      },
+      "transmission": ["Manual", "CVT"],
+      "mileage": "12-15 km/l",
+      "seating": ["5", "6"],
+      "fuel_tank": "60 L",
+      "features": [
+        "14-inch infotainment system",
+        "connected car technology",
+        "panoramic sunroof",
+        "ADAS"
+      ],
+      "use_case": "Family SUV",
+      "source": "https://www.mgmotor.co.in"
+    },
+    {
+      "name": "MG Astor",
+      "category": "Compact SUV",
+      "fuel_type": ["Petrol"],
+      "engine": {
+        "normal": "1.5L",
+        "turbo": "1.3L Turbo"
+      },
+      "power": "110 PS",
+      "torque": "144 Nm",
+      "transmission": ["Manual", "CVT"],
+      "fuel_tank": "48 L",
+      "seating": "5",
+      "features": [
+        "AI personal assistant",
+        "ADAS",
+        "panoramic sunroof",
+        "premium interior"
+      ],
+      "use_case": "Budget SUV with AI features",
+      "source": "https://www.mgmotor.co.in"
+    },
+    {
+      "name": "MG ZS EV",
+      "category": "Electric SUV",
+      "fuel_type": ["Electric"],
+      "battery": "50.3 kWh",
+      "range": "461 km",
+      "power": "177 PS",
+      "charging_time": "16 hours (standard)",
+      "transmission": ["Automatic"],
+      "seating": "5",
+      "features": [
+        "fast charging",
+        "connected car tech",
+        "5-star safety rating",
+        "regenerative braking"
+      ],
+      "use_case": "Long-range electric vehicle",
+      "source": "https://www.mgmotor.co.in"
+    },
+    {
+      "name": "MG Gloster",
+      "category": "Premium SUV",
+      "fuel_type": ["Diesel"],
+      "engine": "2.0L Diesel",
+      "power": "160-215 PS",
+      "torque": "up to 480 Nm",
+      "transmission": ["Automatic"],
+      "drivetrain": ["2WD", "4WD"],
+      "seating": ["6", "7"],
+      "features": [
+        "ADAS",
+        "4x4 off-road modes",
+        "luxury interior",
+        "advanced safety features"
+      ],
+      "use_case": "Luxury off-road SUV",
+      "source": "https://www.mgmotor.co.in"
+    }
+  ]
+}

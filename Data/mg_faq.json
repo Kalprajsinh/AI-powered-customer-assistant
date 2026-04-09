@@ -1,0 +1,842 @@
+[
+    {
+        "question": "What are the details of the project?",
+        "answer": "In the continued mission since the launch of first car in December 2019 to build the ecosystem\nand provide customers the convenience of charging infrastructure MG Motor India today\nannounced a new venture âMG Chargeâ. Under this initiative, MG will install 1000 AC fast\nchargers at residential localities across India, a first-ever initiative by an OEM in India.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "How many chargers will be installed in one society?",
+        "answer": "Under this initiative, a max of 4 AC Type 2 chargers (7.4kW) can be installed/society, based\non the feasibility of the site done by the MG Partners. If there is a requirement of more than\n4 AC chargers, it can be discussed one on one with the respective society.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Can we install DC charger in the society?",
+        "answer": "Under MG charge initiative, only AC type 2 chargers can be installed in the society. In case\nthe society wants to install DC chargers, it can be discussed one on one with the respective\nsociety under different investment model.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What is the process of partnering in this project?",
+        "answer": "Interested RWAs can share their contact details on MG website or contact their nearest MG dealership. Dedicated member from nearest MG dealership will contact to discuss the proposal in detail.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Is the charger compatible with other EVs in the market?",
+        "answer": "Yes. The chargers installed under this project will be Type 2 AC Charger that are compatible\nwith most of current and future EVs in market. The time duration of charging will vary for\nother EVs depending on the battery size and charging capacities.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "How much time will the charger take to charge MG ZS EV completely?",
+        "answer": "We are installing AC Type 2 fast Charger that takes 6-8 hours for charging MG ZS EV from 0\nto 100%",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Is the charger open to anyone visiting the society?",
+        "answer": "The chargers will be installed under Captive usage. That means they will be available to use\nfor all the residents and the visitors of the society authorized by the respective RWAs.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "How can a resident book charging slot for a particular time?",
+        "answer": "Information about the chargers can be accessed using the Charger management system app\nprovided by MG authorized partner and RWA. Residents and guests can download that app\nto discover and access the chargers and pay per use.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Who will pay the electricity bill?",
+        "answer": "Detailed process will be discussed and shared with RWA team during the briefing meeting.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Will the RWA get the reimbursement of electricity consumed by the charging\nstations?",
+        "answer": "Detailed process will be discussed and shared with RWA team during the briefing meeting.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "How will RWA get the reimbursement of electricity bill?",
+        "answer": "Detailed process will be discussed and shared with RWA team during the briefing meeting.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": ". How will the customer make the payment for the charging?",
+        "answer": "Information about the chargers can be accessed using the Charger management system app\nprovided by MG authorized partner and RWA. Residents and guests can download that app\nto discover and access the chargers and pay per use.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Who will the customer contact in case of any payment issue or technical glitches\non the app?",
+        "answer": "The customers can contact the customer helpline number available on the app.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Will the electricity charges for charging be same as the home electricity charges?",
+        "answer": "The per unit charges of charging will vary since it would be set up by the respective RWA\nbasis the cost incurred.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Who will be responsible for the maintenance of the charger?",
+        "answer": "The respective RWA is responsible for the charger maintenance and its operations. In case of\nany issues with the charger, they can connect with respective charger suppliers. Additionally,\nthe RWA can take long term Annual Maintenance package to save from the hassles of\nmaintaining the chargers at their own cost",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What is the investment required from the RWA side in this project?",
+        "answer": "Detailed process will be discussed and shared with RWA team during the briefing meeting.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "How much time does it take to install a charger inside the residential locality?",
+        "answer": "Target time of installation is 3-4 weeks post site readiness. However the actual time may vary on a case to case basis",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Whom should I contact in case of any issues with the charger?",
+        "answer": "The customer helpline numbers for respective partners will be provided to RWA for easy access post installation.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "MGDP 3.0",
+        "answer": "What is MG Developer Program & Grant? The MG Developer Program & Grant is developed to create an innovation platform of choice, for developers and innovators, that will encourage them to build new applications and experiences never imagined before in a car. The program is brought together by MG Motor in partnership with technology leaders Adobe, SAP, MapMyIndia. Koinearth, Bosch and Jio. It is open to external developers (students, innovators, inventors, start-ups, and other tech companies) as well as internal teams of intrapreneurs at MG Motor and partner companies. The program seeks solutions by verticals to make the entire automotive ecosystem better by developing in-car services. The theme for this year is Car as a Platform (CaaP) . Why Participate in this program? The program offers a unique opportunity for innovators and developers to work directly with MG Motor and its technology partners to bring solution to market quickly. The consortium behind the program shall provideÂ Specialized, high-level mentoring, relevant to practical development of the solution Learning and relevant content for solution and business development Business plan and modelling Provide testing/ lab facility where possible Network with other participants within the program to drive synergy Access to other startup and develop programs of consortium members, opening a large opportunity Recognition with PR opportunity for winning startups Access to a grant amount. (Award of grant would be at the sole discretion of program jury, based on their evaluation, on a case-to-case basis.) What is the methodology of the program? 1.Â Â Â Â  Submit application online on MG Developer Program and Grant website 2.Â Â Â Â  Shortlisted startups would be assigned a mentor to develop their ideas 3.Â Â Â Â  Present the idea on Demo Day (Dates and venue to be announced) to Jury 4.Â Â Â Â  Jury selects winners for grant and recognition 5.Â Â Â Â  Shortlisted companies and winners may also get opportunity to test/ develop their solutions with one of the member companies. This would be decided and enabled by the assigned mentor. How to apply for the program? Submit application with following details Â 1.Â Â Â Â  Company information â name, location, website, social, contact details 2.Â Â Â Â  Founder/ key person information â name and contact 3.Â Â Â Â  Company profile/ deck 4.Â Â Â Â  Category under which application is submitted 5.Â Â Â Â  Proposed solution in brief (100 words within box provided) 6.Â Â Â Â  What they seek from the Program for the solution 7.Â Â Â Â  Details of proposed solution to be submitted as either of ppt, doc, pdf, jpg and mpg Â  Â  Â  Â  Â  a.Â Â Â Â Â  Should include details of solution Â  Â  Â  Â  Â  b.Â Â Â Â  Stage of development Â  Â  Â  Â  Â  c.Â Â Â Â Â  Proposed business model Â  Â  Â  Â  Â  d.Â Â Â Â  Traction, revenue, if any Â  Â  Â  Â  Â  e.Â Â Â Â Â  Proposed cost of project/ development Â  Â  Â  Â  Â  f.Â Â Â Â Â Â  Lead developers of the solutionÂ What are the key dates*? Website and Announcement â December 01, 2021 Entries close by - January 15, 2021 Mentoring - January 16 â February 28 Demo day â March W2 at NCR (Tentative) * The current plan is as above. However, dates may change as per business requirements. What are the key categories in which I can participate*? 1.Â Â Â Â  Utilities 2.Â Â Â Â  Entertainment 3.Â Â Â Â  Travel and Navigation 4.Â Â Â Â  Security and privacy 5.Â Â Â Â  Payments & Rewards 6.Â Â Â Â  Commerce 7.Â Â Â Â  Others * For more details, refer to the MG Developer and Grant website Who can participate in this program? It is open to external developers (students, innovators, inventors, start-ups, and other tech companies) as well as internal teams of intrapreneurs at MG Motor and partner companies. Which other companies are shortlisted under MG Developer Program & Grant last year? Total 8 start-ups have been shortlisted in phase II of MG Developer and Grant Program 1.Â Â Â Â  MIHUP: Mihup is building a Voice AI platform for enterprises such as customer contact centres, Automotive & TV OEMs. The platform enables enterprise developers to create customized voice interfaces with full control over brand identity and privacy. The interaction analytics solution provided by MIHUP gives 100% analysis of a call centreâs customer interactions to derive actionable insights to improve sales, collection, and customer services. It is an enterprise ready platform for both native cloud and edge deployments. 2.Â Â Â Â  REDBOT: RedBot Innovations provides machine vision, computer vision and image processing turnkey solutions with an intent to help manufacturing organizations improve their quality inspection processes. They provide high value addition to manufacturing process like surface defect inspection, presence /absence of parts, total products count and many more. The technology reduces cost of production at all levels, at the same time reducing human errors. Â 3.Â Â Â Â  ELECTREEFI: Electreefi or TechPerspect, is an Information Technology and eMobility solutions company based out of Noida, Delhi NCR. They are experts in implementation of IoT based eMobility Solutions. They have created an IoT based eMobility Technology Platform that has various components and offerings for both businesses and end customers. They have done extensive work in the Electric Vehicle (EV) domain in association with the leading stake holders in the Indian industry. Â 4.Â Â Â Â  KOINEARTH: Koinearth is a startup working at the intersection of blockchains, machine learning and mechanism design. Koinearth create networks, markets, and economies with trusted information and incentives. Their marketN platform allows supply chains to deliver faster, to reduce their operating costs all while having organizations maintain control over data as an asset. Â 5.Â Â Â Â  FABRIK: Designed especially for creatives, Fabrik makes it easy for to create professional websites that showcase the work. They design and build portfolio in a customized way. The platform connects to the services you already use, which means you can add your work easily, and share it to your social networks quickly. Â 6.Â Â Â Â  ORXA: Orxa Energies is a high-performance electric vehicle and energy systems startup. They want to rapidly electrify all transport. Orxa does this through their fully electric performance vehicles and their performance battery packs. Orxa is capital-efficient, works through first principles and builds \"design with function\" in all their products. Â 7.Â Â Â Â  GREENTECH: Grinntech offers solutions that are on the forefront of innovation for demanding EV customers, from fully integrated battery packs and off-the-shelf products to custom engineered solutions and battery analytics. Grinntech is passionate about playing a role in electrification of mobility since Mobility for the Future needs to be environmentally sustainable, economically affordable, and socially fun. Â 8.Â Â Â Â  AVATAAR: Avataar.Me is a 3D AI company that helps large enterprise customers create immersive and interactive shopping experiences for their end consumers. Avataarâs vision is to bridge the gap between offline-online experiences by replacing the current 2D visuals with life-size and hyper-realistic 3D XR/AR experiences. Avataarâs use of AR technology brings spatial depth to the onscreen buying/browsing experience. Â What is the Grant amount provided? How much MG has invested? The objective of MG Developer Program and Grant is to develop innovation platform and make the entire automotive ecosystem better by developing new applications The Grant amount under MG Developer and Grant program is different on case-to-case basis. What is the timeline of projects? The timeline of each project will differ on case-to-case basis. Is there any limitation on team size? A maximum of 5 people can be there. No cap on minimum members. Is any background set up of Start-up is necessary for students? No, anyone with an idea can leverage this platform.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What is MG Developer Program & Grant?",
+        "answer": "The MG Developer Program & Grant is developed to create an innovation platform of choice, for developers and innovators, that will encourage them to build new applications and experiences never imagined before in a car. The program is brought together by MG Motor in partnership with technology leaders Adobe, SAP, MapMyIndia. Koinearth, Bosch and Jio. It is open to external developers (students, innovators, inventors, start-ups, and other tech companies) as well as internal teams of intrapreneurs at MG Motor and partner companies. The program seeks solutions by verticals to make the entire automotive ecosystem better by developing in-car services. The theme for this year is Car as a Platform (CaaP) .",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Why Participate in this program?",
+        "answer": "The program offers a unique opportunity for innovators and developers to work directly with MG Motor and its technology partners to bring solution to market quickly. The consortium behind the program shall provideÂ Specialized, high-level mentoring, relevant to practical development of the solution Learning and relevant content for solution and business development Business plan and modelling Provide testing/ lab facility where possible Network with other participants within the program to drive synergy Access to other startup and develop programs of consortium members, opening a large opportunity Recognition with PR opportunity for winning startups Access to a grant amount. (Award of grant would be at the sole discretion of program jury, based on their evaluation, on a case-to-case basis.)",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What is the methodology of the program?",
+        "answer": "1.Â Â Â Â  Submit application online on MG Developer Program and Grant website 2.Â Â Â Â  Shortlisted startups would be assigned a mentor to develop their ideas 3.Â Â Â Â  Present the idea on Demo Day (Dates and venue to be announced) to Jury 4.Â Â Â Â  Jury selects winners for grant and recognition 5.Â Â Â Â  Shortlisted companies and winners may also get opportunity to test/ develop their solutions with one of the member companies. This would be decided and enabled by the assigned mentor.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "How to apply for the program?",
+        "answer": "Submit application with following details Â 1.Â Â Â Â  Company information â name, location, website, social, contact details 2.Â Â Â Â  Founder/ key person information â name and contact 3.Â Â Â Â  Company profile/ deck 4.Â Â Â Â  Category under which application is submitted 5.Â Â Â Â  Proposed solution in brief (100 words within box provided) 6.Â Â Â Â  What they seek from the Program for the solution 7.Â Â Â Â  Details of proposed solution to be submitted as either of ppt, doc, pdf, jpg and mpg Â  Â  Â  Â  Â  a.Â Â Â Â Â  Should include details of solution Â  Â  Â  Â  Â  b.Â Â Â Â  Stage of development Â  Â  Â  Â  Â  c.Â Â Â Â Â  Proposed business model Â  Â  Â  Â  Â  d.Â Â Â Â  Traction, revenue, if any Â  Â  Â  Â  Â  e.Â Â Â Â Â  Proposed cost of project/ development Â  Â  Â  Â  Â  f.Â Â Â Â Â Â  Lead developers of the solutionÂ",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What are the key dates*?",
+        "answer": "Website and Announcement â December 01, 2021 Entries close by - January 15, 2021 Mentoring - January 16 â February 28 Demo day â March W2 at NCR (Tentative) * The current plan is as above. However, dates may change as per business requirements.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What are the key categories in which I can participate*?",
+        "answer": "1.Â Â Â Â  Utilities 2.Â Â Â Â  Entertainment 3.Â Â Â Â  Travel and Navigation 4.Â Â Â Â  Security and privacy 5.Â Â Â Â  Payments & Rewards 6.Â Â Â Â  Commerce 7.Â Â Â Â  Others * For more details, refer to the MG Developer and Grant website",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Who can participate in this program?",
+        "answer": "It is open to external developers (students, innovators, inventors, start-ups, and other tech companies) as well as internal teams of intrapreneurs at MG Motor and partner companies.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Which other companies are shortlisted under MG Developer Program & Grant last year?",
+        "answer": "Total 8 start-ups have been shortlisted in phase II of MG Developer and Grant Program 1.Â Â Â Â  MIHUP: Mihup is building a Voice AI platform for enterprises such as customer contact centres, Automotive & TV OEMs. The platform enables enterprise developers to create customized voice interfaces with full control over brand identity and privacy. The interaction analytics solution provided by MIHUP gives 100% analysis of a call centreâs customer interactions to derive actionable insights to improve sales, collection, and customer services. It is an enterprise ready platform for both native cloud and edge deployments. 2.Â Â Â Â  REDBOT: RedBot Innovations provides machine vision, computer vision and image processing turnkey solutions with an intent to help manufacturing organizations improve their quality inspection processes. They provide high value addition to manufacturing process like surface defect inspection, presence /absence of parts, total products count and many more. The technology reduces cost of production at all levels, at the same time reducing human errors. Â 3.Â Â Â Â  ELECTREEFI: Electreefi or TechPerspect, is an Information Technology and eMobility solutions company based out of Noida, Delhi NCR. They are experts in implementation of IoT based eMobility Solutions. They have created an IoT based eMobility Technology Platform that has various components and offerings for both businesses and end customers. They have done extensive work in the Electric Vehicle (EV) domain in association with the leading stake holders in the Indian industry. Â 4.Â Â Â Â  KOINEARTH: Koinearth is a startup working at the intersection of blockchains, machine learning and mechanism design. Koinearth create networks, markets, and economies with trusted information and incentives. Their marketN platform allows supply chains to deliver faster, to reduce their operating costs all while having organizations maintain control over data as an asset. Â 5.Â Â Â Â  FABRIK: Designed especially for creatives, Fabrik makes it easy for to create professional websites that showcase the work. They design and build portfolio in a customized way. The platform connects to the services you already use, which means you can add your work easily, and share it to your social networks quickly. Â 6.Â Â Â Â  ORXA: Orxa Energies is a high-performance electric vehicle and energy systems startup. They want to rapidly electrify all transport. Orxa does this through their fully electric performance vehicles and their performance battery packs. Orxa is capital-efficient, works through first principles and builds \"design with function\" in all their products. Â 7.Â Â Â Â  GREENTECH: Grinntech offers solutions that are on the forefront of innovation for demanding EV customers, from fully integrated battery packs and off-the-shelf products to custom engineered solutions and battery analytics. Grinntech is passionate about playing a role in electrification of mobility since Mobility for the Future needs to be environmentally sustainable, economically affordable, and socially fun. Â 8.Â Â Â Â  AVATAAR: Avataar.Me is a 3D AI company that helps large enterprise customers create immersive and interactive shopping experiences for their end consumers. Avataarâs vision is to bridge the gap between offline-online experiences by replacing the current 2D visuals with life-size and hyper-realistic 3D XR/AR experiences. Avataarâs use of AR technology brings spatial depth to the onscreen buying/browsing experience. Â",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What is the Grant amount provided? How much MG has invested?",
+        "answer": "The objective of MG Developer Program and Grant is to develop innovation platform and make the entire automotive ecosystem better by developing new applications The Grant amount under MG Developer and Grant program is different on case-to-case basis.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What is the timeline of projects?",
+        "answer": "The timeline of each project will differ on case-to-case basis.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Is there any limitation on team size?",
+        "answer": "A maximum of 5 people can be there. No cap on minimum members.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Is any background set up of Start-up is necessary for students?",
+        "answer": "No, anyone with an idea can leverage this platform.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Drive Her Back",
+        "answer": "How can I apply for this program? You can apply by visiting our websiteÂ https://www.mgmotor.co.in/drive-her-back-2 What minimum experience is required to apply? Min 2 years of Industrial experience in relevant function / field. What kind of employment will the company provide under DHB program? Selected returnees will be offered the position of Project Team Member for the period of one year. Based on the performance throughout the year and availability of Headcount specific to the role at that point in time, there is a possibility of absorption after completing 1 year association as project member with MGI Am I eligible for DHB program? You are eligible to apply for DHB Season 2, if you have relevant competencies and have taken a career break of at least 6 months. This career break is due to health reasons, personal reason, maternity break, lay off due to downsizing etc. What will be the nature of job assigned to me? You will be assigned projects basis your education qualification, experience and skill set acquired during your previous stints.Â What will be the hiring process? After the initial screening of profiles, candidates will have to undergo rounds of interviews (Online)- Functional and HR. Selected candidates will receive an offer letter from MG Motor. What will be the compensation? It is not fixed. It will depend on the last drawn CTC, years of experience, market benchmark for that particular position. Will there be someone who can guide me during my stint? You will be assigned a mentor who will guide you to accomplish your given tasks and responsibilities Â What will be the date of Joining? January 1 st week 2021 (tentative) What will be the base location? Â For plant functions like Manufacturing, Quality, Manufacturing Engineering, Purchase, supply chain, Engineering, EHS, maintenance, HR and IT Finance - the location would be Halol which is 40 kms from main city of Baroda. For Sales and Marketing, Aftersales, Dealer Development, Legal, HR and Finance it would be at Gurgaon Â Are there any age criteria? No, there is no such age criteria. What facilities will the company provide? If the location is Halol - Bus Transportation, Uniform, Canteen Facility, Creche (closed due to pandemic) For Gurgaon - We have creche and Cafeteria (both are closed due to pandemic) Does the company provide accommodation? Company will provide 10 days of accommodation in hotel during joining if coming from other location. During this period youâll have to find permanent stay arrangements for yourself Will I need to travel in my role? It will depend on your role and organizational requirement. It will be cleared by the department heads during the interview process Will I need to join in person if the pandemic situation continues? The organisation will take a call on it once the joining date is confirmed Will I be applicable for travel allowance and food allowance if my base location changes permanently in future? You will be entitled to food allowance and conveyance allowance as per base location.Â Will I get travel allowance and food allowance if I travel to different locations due to business requirement? Yes, you will be applicable for both the reimbursements as per the policy limits.Â",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "How can I apply for this program?",
+        "answer": "You can apply by visiting our websiteÂ https://www.mgmotor.co.in/drive-her-back-2",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What minimum experience is required to apply?",
+        "answer": "Min 2 years of Industrial experience in relevant function / field.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What kind of employment will the company provide under DHB program?",
+        "answer": "Selected returnees will be offered the position of Project Team Member for the period of one year. Based on the performance throughout the year and availability of Headcount specific to the role at that point in time, there is a possibility of absorption after completing 1 year association as project member with MGI",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Am I eligible for DHB program?",
+        "answer": "You are eligible to apply for DHB Season 2, if you have relevant competencies and have taken a career break of at least 6 months. This career break is due to health reasons, personal reason, maternity break, lay off due to downsizing etc.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What will be the nature of job assigned to me?",
+        "answer": "You will be assigned projects basis your education qualification, experience and skill set acquired during your previous stints.Â",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What will be the hiring process?",
+        "answer": "After the initial screening of profiles, candidates will have to undergo rounds of interviews (Online)- Functional and HR. Selected candidates will receive an offer letter from MG Motor.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What will be the compensation?",
+        "answer": "It is not fixed. It will depend on the last drawn CTC, years of experience, market benchmark for that particular position.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Will there be someone who can guide me during my stint?",
+        "answer": "You will be assigned a mentor who will guide you to accomplish your given tasks and responsibilities Â",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What will be the date of Joining?",
+        "answer": "January 1 st week 2021 (tentative)",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What will be the base location?",
+        "answer": "Â For plant functions like Manufacturing, Quality, Manufacturing Engineering, Purchase, supply chain, Engineering, EHS, maintenance, HR and IT Finance - the location would be Halol which is 40 kms from main city of Baroda. For Sales and Marketing, Aftersales, Dealer Development, Legal, HR and Finance it would be at Gurgaon Â",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Are there any age criteria?",
+        "answer": "No, there is no such age criteria.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What facilities will the company provide?",
+        "answer": "If the location is Halol - Bus Transportation, Uniform, Canteen Facility, Creche (closed due to pandemic) For Gurgaon - We have creche and Cafeteria (both are closed due to pandemic)",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Does the company provide accommodation?",
+        "answer": "Company will provide 10 days of accommodation in hotel during joining if coming from other location. During this period youâll have to find permanent stay arrangements for yourself",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Will I need to travel in my role?",
+        "answer": "It will depend on your role and organizational requirement. It will be cleared by the department heads during the interview process",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Will I need to join in person if the pandemic situation continues?",
+        "answer": "The organisation will take a call on it once the joining date is confirmed",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Will I be applicable for travel allowance and food allowance if my base location changes permanently in future?",
+        "answer": "You will be entitled to food allowance and conveyance allowance as per base location.Â",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Will I get travel allowance and food allowance if I travel to different locations due to business requirement?",
+        "answer": "Yes, you will be applicable for both the reimbursements as per the policy limits.Â",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "MG Reassure",
+        "answer": "What is Reassure Program ? MG Motor India has launched its Certified Pre-Loved Car Vertical, âMG Reassureâ, in India. The aim of MG Reassure is to provide a quick and best residual value for MG cars to MG customers across its dealerships. Also through this program , MG Motor India wants to give its pre owned car buyers an experience at par with the new car buying experience.Â Why should I sell to you ? We at MG are making all the efforts that our customers get the best value for their existing vehicles. To ensure the transparency and best value realization we have launched this program. Also we will ensure a complete peace of mind as the vehicles would be sold and the Transfer of registration would be overlooked by MG Authorized dealerships.Â What is the security if I sell to you ? All the vehicle sold to us would be sold to end customers and we would ensure the RC transfer of the vehicle is done. Thus a complete peace of mind would be ensuredÂ If I just want to sell my existing MG and not buy a new MG , would you still take my car ? The program is launched to facilitate all existing MG users and even if you are not willing to buy a New MG, we will still take your vehicle .Â Why should I buy a pre loved / pre owned car from you ? At MG we know our products best and also the proposition of quality and value offering is best in the market. Under this program all the vehicles have a quality assurance backed by a min 3 yr warranty for unlimited kms , ,in 3 yr RSA and min 3 labour free services. This is currently the best proposition in the market .Â All the certified vehicles would go under a rigorous quality check and are refurbished by genuine spares only.Â What are the benefits of buying a pre loved MG From you? oÂ Â Â Quality Assurance: Â  Â  Â  Â  Â  Â  Â  Â  Â  oÂ Â  Non-Accidental Vehicles Â  Â  Â  Â  Â  Â  Â  Â  Â  oÂ Â  Maintained by MG Authorized Dealerships Â  Â  Â  Â  Â  Â  Â  Â  Â  oÂ Â  Vehicles checked on 160+ pointsÂ Â Â Â  Â  Â  Â  Â  Â  Â  Â  Â  oÂ Â  Refurbished with Genuine spares oÂ Â Â Value Added Services [333] Â  Â  Â  Â  Â  Â  Â  Â  Â  oÂ Â  Min 3 Year / Unlimited Km Warranty Â  Â  Â  Â  Â  Â  Â  Â  Â  oÂ Â  Min3 Year RSA Â  Â  Â  Â  Â  Â  Â  Â  Â  oÂ Â  Min 3 Labor Free Service What the meaning of Certified Pre Loved ? Non-Accidental VehiclesÂ Maintained by MG Authorized Dealerships Vehicles checked on 160+ pointsÂ  Â Â Refurbished with genuine spares Can we avail a loan on Pre Loved cars? Yes , we have tie-up with all the financers and offer loans at very attractive interest rates.Â",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What is Reassure Program ?",
+        "answer": "MG Motor India has launched its Certified Pre-Loved Car Vertical, âMG Reassureâ, in India. The aim of MG Reassure is to provide a quick and best residual value for MG cars to MG customers across its dealerships. Also through this program , MG Motor India wants to give its pre owned car buyers an experience at par with the new car buying experience.Â",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Why should I sell to you ?",
+        "answer": "We at MG are making all the efforts that our customers get the best value for their existing vehicles. To ensure the transparency and best value realization we have launched this program. Also we will ensure a complete peace of mind as the vehicles would be sold and the Transfer of registration would be overlooked by MG Authorized dealerships.Â",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What is the security if I sell to you ?",
+        "answer": "All the vehicle sold to us would be sold to end customers and we would ensure the RC transfer of the vehicle is done. Thus a complete peace of mind would be ensuredÂ",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "If I just want to sell my existing MG and not buy a new MG , would you still take my car ?",
+        "answer": "The program is launched to facilitate all existing MG users and even if you are not willing to buy a New MG, we will still take your vehicle .Â",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Why should I buy a pre loved / pre owned car from you ?",
+        "answer": "At MG we know our products best and also the proposition of quality and value offering is best in the market. Under this program all the vehicles have a quality assurance backed by a min 3 yr warranty for unlimited kms , ,in 3 yr RSA and min 3 labour free services. This is currently the best proposition in the market .Â All the certified vehicles would go under a rigorous quality check and are refurbished by genuine spares only.Â",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What are the benefits of buying a pre loved MG From you?",
+        "answer": "oÂ Â Â Quality Assurance: Â  Â  Â  Â  Â  Â  Â  Â  Â  oÂ Â  Non-Accidental Vehicles Â  Â  Â  Â  Â  Â  Â  Â  Â  oÂ Â  Maintained by MG Authorized Dealerships Â  Â  Â  Â  Â  Â  Â  Â  Â  oÂ Â  Vehicles checked on 160+ pointsÂ Â Â Â  Â  Â  Â  Â  Â  Â  Â  Â  oÂ Â  Refurbished with Genuine spares oÂ Â Â Value Added Services [333] Â  Â  Â  Â  Â  Â  Â  Â  Â  oÂ Â  Min 3 Year / Unlimited Km Warranty Â  Â  Â  Â  Â  Â  Â  Â  Â  oÂ Â  Min3 Year RSA Â  Â  Â  Â  Â  Â  Â  Â  Â  oÂ Â  Min 3 Labor Free Service",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What the meaning of Certified Pre Loved ?",
+        "answer": "Non-Accidental VehiclesÂ Maintained by MG Authorized Dealerships Vehicles checked on 160+ pointsÂ  Â Â Refurbished with genuine spares",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Can we avail a loan on Pre Loved cars?",
+        "answer": "Yes , we have tie-up with all the financers and offer loans at very attractive interest rates.Â",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "FOTA",
+        "answer": "What do you mean by FOTA? FOTA stands for Firmware Over-The-Air. Owners of the MG Hector will be able to receive real time updates like new features, entertainment content and Software Updates to improve user experience from time to time without having to visit the dealership.Â What will be benefits of FOTA Update? One of the biggest advantages of connected car mobility is the ease of updating software, feature enhancements through OTA without visiting a dealership. FOTA updates are robust, reliable and provide easy access to upgrades.Â What will be the duration of download and update? The FOTA download & installation will take approximately 30 mins however as it is happening via internet so it will be depending on network signal strength & downloading Speed. Thanks!Â What will be impact on other applications while doing a download? You can use all application while DOWNLOADING however it will impact the downloading time and experience of other applications due to internet speed. For faster download we recommend not to use other applications. Thanks!Â How will I know that software is updated? Post completion of the update, the system will auto-generate a success message on the screen. While software is getting updated, it is necessary that engine must be on? It is required to keep the engine in start position and possibly in static condition in good network strength are to ensure seamless/uninterrupted update. If vehicle is moving it may have intermediate network strength and update process may get interrupt or may take more time. Why auto download is not possible? Auto-download can impact the experience of other applications which would be in use at that point. Hence, customers are given control to download the updates as per their convenience.Â Â What will be the steps to start the process? Please follow these steps to install the updates: Go to settings -> Upgrade -> Update Will I get the notifications for software update. Individual notifications wonât be shared/available, however company will release periodic SMS notifications and emailers to check the vehicle to stay tuned. The update will be rolled out to the customers in a phased manner, as per plan. What will happen if engine is stopped or update is interrupted? In case the download is interrupted If the engine is stopped while the download is in process, the user will have to resume the same by clicking on the âupdateâ tab under settings. Â In case the download is interrupted because of network issues, the system will resume download on its own. In case installation is interrupted Post the download, the updates cannot be interrupted manually by the user. Even if the Ignition is switched off, the updates will continue to run in the background. In case, the ignition is switched-off, User has to resume the operation for upgradation.Â What will happen if I will enter in a no network zone? In a bad/ no network zone, the download process will pause and will resume automatically once there is proper network. The download progress will not be impacted and will resume from the last point of update. During installation, network strength variation will not impact the installation progress. What happens in case the software installation is stuck and does not auto resume? This is a highly unlikely scenario as the software installation is thoroughly tested before it is released to the customer. However, in case if such a situation arises, Please Reboot the Head unit by long pressing the centre button. Shut down the car completely and step-out the car. Lock & Unlock the car once and then sitting inside the vehicle try once again to resume the operation. The customer should contact/visit the nearest dealer.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What do you mean by FOTA?",
+        "answer": "FOTA stands for Firmware Over-The-Air. Owners of the MG Hector will be able to receive real time updates like new features, entertainment content and Software Updates to improve user experience from time to time without having to visit the dealership.Â",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What will be benefits of FOTA Update?",
+        "answer": "One of the biggest advantages of connected car mobility is the ease of updating software, feature enhancements through OTA without visiting a dealership. FOTA updates are robust, reliable and provide easy access to upgrades.Â",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What will be the duration of download and update?",
+        "answer": "The FOTA download & installation will take approximately 30 mins however as it is happening via internet so it will be depending on network signal strength & downloading Speed. Thanks!Â",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What will be impact on other applications while doing a download?",
+        "answer": "You can use all application while DOWNLOADING however it will impact the downloading time and experience of other applications due to internet speed. For faster download we recommend not to use other applications. Thanks!Â",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "How will I know that software is updated?",
+        "answer": "Post completion of the update, the system will auto-generate a success message on the screen.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "While software is getting updated, it is necessary that engine must be on?",
+        "answer": "It is required to keep the engine in start position and possibly in static condition in good network strength are to ensure seamless/uninterrupted update. If vehicle is moving it may have intermediate network strength and update process may get interrupt or may take more time.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Why auto download is not possible?",
+        "answer": "Auto-download can impact the experience of other applications which would be in use at that point. Hence, customers are given control to download the updates as per their convenience.Â Â",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What will be the steps to start the process?",
+        "answer": "Please follow these steps to install the updates: Go to settings -> Upgrade -> Update",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Will I get the notifications for software update.",
+        "answer": "Individual notifications wonât be shared/available, however company will release periodic SMS notifications and emailers to check the vehicle to stay tuned. The update will be rolled out to the customers in a phased manner, as per plan.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What will happen if engine is stopped or update is interrupted?",
+        "answer": "In case the download is interrupted If the engine is stopped while the download is in process, the user will have to resume the same by clicking on the âupdateâ tab under settings. Â In case the download is interrupted because of network issues, the system will resume download on its own. In case installation is interrupted Post the download, the updates cannot be interrupted manually by the user. Even if the Ignition is switched off, the updates will continue to run in the background. In case, the ignition is switched-off, User has to resume the operation for upgradation.Â",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What will happen if I will enter in a no network zone?",
+        "answer": "In a bad/ no network zone, the download process will pause and will resume automatically once there is proper network. The download progress will not be impacted and will resume from the last point of update. During installation, network strength variation will not impact the installation progress.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What happens in case the software installation is stuck and does not auto resume?",
+        "answer": "This is a highly unlikely scenario as the software installation is thoroughly tested before it is released to the customer. However, in case if such a situation arises, Please Reboot the Head unit by long pressing the centre button. Shut down the car completely and step-out the car. Lock & Unlock the car once and then sitting inside the vehicle try once again to resume the operation. The customer should contact/visit the nearest dealer.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "MG Nurture",
+        "answer": "What is the MG Nurture Program? MG Nurture is a first-of-its-kind student support program that focuses on training students. The initiative will equip around 200 students with a market-focused skill set and make them future-ready.Â Â The primary course, Stage 1 is spread over 2 months and offers a bouquet of Webinars from Industry Experts, Skill Development Workshops from MG Partners and On Ground Projects. All selected candidates will go through this program and gain valuable skills and experience to improve their employability.Â Â Candidates who get selected further from Stage 1 will also be given an opportunity to work closely with MG Motor India in Industry best Marketing and Sales projects. This will be the part 2 of MG Nurture 2020 ProgramÂ Â Candidates who successfully complete Stage 2 of the project can win grants for further education or even employment opportunity with MG Motor India or its Dealerships across IndiaÂ What is the process for entry in the MG Nurture Program? Below are the steps in the process: A. Enrolment in the MG Nurture ProgramÂ B. Online Test C. Interview Each step will be an elimination stage and only candidates clearing one stage will go ahead for the next stage Is there any entry fee for the MG Nurture Program? No, MG Nurture is a social initiative of MG Motor India. There is no entry fee of any kind What is the main reason to establish this Nurture Program? Innovation, Community, Experience and Diversity being MG Motor Indiaâs core pillars, this initiative is aimed at equipping the student community with knowledge & skills that will enhance their career prospects in future. What will be the content of the MG Nurture Program? The program consists of 2 monthâs skill building workshops, webinars with Industry professionals and On the Job Training in select cities of India. For details, refer to Q1 In what cities will the program be run? There are a total 79 cities where the program will be run. Here is the list of such cities Sr. No. City 1 Delhi 2 Faridabad 3 Gurgaon 4 Noida 5 Ghaziabad 6 Bengaluru 7 Mumbai 8 Thane 9 Navi Mumbai 10 Pune 11 Ahmedabad 12 Hyderbabad 13 Chennai 14 Chandigarh 15 Lucknow 16 Jaipur 17 Kolkata 18 Surat 19 Indore 20 Vadodara 21 Cochin 22 Ludhiana 23 Jalandhar 24 Nagpur 25 Bhopal 26 Rajkot 27 Raipur 28 Goa 29 Calicut 30 Vijaywada 31 Thrissur 32 Vizag 33 Dehradun 34 Ranchi 35 Kanpur 36 Jodhpur 37 Udaipur 38 Karnal 39 Agra 40 Coimbatore 41 Guwahati 42 Kolhapur 43 Mysore 44 Jammu 45 Varanasi 46 Patna 47 Nasik 48 Trivendrum 49 Aurangabad 50 Gwalior 51 Jabalpur 52 Hubli 53 Madurai 54 Jamshedpur 55 Patiala 56 Bareily 57 Mangalore 58 Kottayam 59 Merrut 60 Pondicherry 61 Vapi 62 Gandhinagar 63 Dhanbad 64 Sonipat 65 Amritsar 66 Hisar 67 Ambala 68 Allahabad 69 Rohtak 70 Siliguri 71 Salem 72 Kota 73 Ajmer 74 Rajamundry 75 Trichy 76 Gorakhpur 77 Haldwani 78 Guntur 79 Solan What is the required educational qualification to be a part of this program? A student pursuing graduation or post-graduation (MBA) shall be eligible to participate in this program When is the last date of application for MG Nurture Program? This will be disclosed soon. Details will be mailed post enrolment. What is the total duration of this program? The program is built for 2 months. Candidates who are selected and are willing to participate further can engage for 2 more months after completion of initial period. Where will the program be conducted? The program will be conducted online through digital media. There will be some portion of on-ground work as well. Some candidates might be chosen to work along with MG Motor India dealerships as we How can I apply for the MG Nurture Program? You can click on this link here to register/enrol yourself for the program. Once enrolled, you will receive an Email confirmation of your enrolment and we will further communicate the steps in the process What documents are required to be furnished for this program? Once shortlisted for the program, you will be asked to submit internship recommendation letter from college authority, education certificates etc. A complete list of required documents will be sent to selected candidates over emal Will I be given any certificate after completion of this Program? Yes, you will be awarded a certificate from MG Motor India on successful completion of the program Do I need to have any prior work-experience to enrol for MG Nurture? No, having work experience is not mandatory to enrol for MG Nurture program Do I need to have a laptop for this program? While having a computer/tab will be a plus, a smartphone should be sufficient. In case you do not have either, a desk at the MG Dealership of your city can be provided for fixed hours to complete your project workÂ Can I also get employment opportunity with MG Motor? The program will enhance your prospects of employability in the Auto Industry. The program doesnât guarantee any employment with MG Motor India or MG Dealerships. How many hours will I have to dedicate for the MG Nurture Program? Candidates will be required to devote approximately 20 hours per week towards the MG Nurture Program Is MG Nurture Program available in my city? Please check the city list Will I also be given any emoluments in this program? Interns shall receive a monthly stipend as per below details: Â â¢ Pursuing Graduation -Â  Â Rs/- 15,000 per monthÂ â¢ Pursuing Post Graduation â Rs/- 20000 per monthÂ Â Will the MG Nurture Program require me to work in field as well? MG India follows a flexible approach. If there is any work required to be done at field, you can also do it over weekendsÂ How much education grant can I get if I decide to pursue Post Graduation? MG Motor India will contribute 50% or Rs. 5 lac (whichever is less) towards your 2 year post graduate education/MBA if you are selected for the same! MG Motor Indiaâs decision in this regard will be considered as final.Â",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What is the MG Nurture Program?",
+        "answer": "MG Nurture is a first-of-its-kind student support program that focuses on training students. The initiative will equip around 200 students with a market-focused skill set and make them future-ready.Â Â The primary course, Stage 1 is spread over 2 months and offers a bouquet of Webinars from Industry Experts, Skill Development Workshops from MG Partners and On Ground Projects. All selected candidates will go through this program and gain valuable skills and experience to improve their employability.Â Â Candidates who get selected further from Stage 1 will also be given an opportunity to work closely with MG Motor India in Industry best Marketing and Sales projects. This will be the part 2 of MG Nurture 2020 ProgramÂ Â Candidates who successfully complete Stage 2 of the project can win grants for further education or even employment opportunity with MG Motor India or its Dealerships across IndiaÂ",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What is the process for entry in the MG Nurture Program?",
+        "answer": "Below are the steps in the process: A. Enrolment in the MG Nurture ProgramÂ B. Online Test C. Interview Each step will be an elimination stage and only candidates clearing one stage will go ahead for the next stage",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Is there any entry fee for the MG Nurture Program?",
+        "answer": "No, MG Nurture is a social initiative of MG Motor India. There is no entry fee of any kind",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What is the main reason to establish this Nurture Program?",
+        "answer": "Innovation, Community, Experience and Diversity being MG Motor Indiaâs core pillars, this initiative is aimed at equipping the student community with knowledge & skills that will enhance their career prospects in future.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What will be the content of the MG Nurture Program?",
+        "answer": "The program consists of 2 monthâs skill building workshops, webinars with Industry professionals and On the Job Training in select cities of India. For details, refer to Q1",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "In what cities will the program be run?",
+        "answer": "There are a total 79 cities where the program will be run. Here is the list of such cities Sr. No. City 1 Delhi 2 Faridabad 3 Gurgaon 4 Noida 5 Ghaziabad 6 Bengaluru 7 Mumbai 8 Thane 9 Navi Mumbai 10 Pune 11 Ahmedabad 12 Hyderbabad 13 Chennai 14 Chandigarh 15 Lucknow 16 Jaipur 17 Kolkata 18 Surat 19 Indore 20 Vadodara 21 Cochin 22 Ludhiana 23 Jalandhar 24 Nagpur 25 Bhopal 26 Rajkot 27 Raipur 28 Goa 29 Calicut 30 Vijaywada 31 Thrissur 32 Vizag 33 Dehradun 34 Ranchi 35 Kanpur 36 Jodhpur 37 Udaipur 38 Karnal 39 Agra 40 Coimbatore 41 Guwahati 42 Kolhapur 43 Mysore 44 Jammu 45 Varanasi 46 Patna 47 Nasik 48 Trivendrum 49 Aurangabad 50 Gwalior 51 Jabalpur 52 Hubli 53 Madurai 54 Jamshedpur 55 Patiala 56 Bareily 57 Mangalore 58 Kottayam 59 Merrut 60 Pondicherry 61 Vapi 62 Gandhinagar 63 Dhanbad 64 Sonipat 65 Amritsar 66 Hisar 67 Ambala 68 Allahabad 69 Rohtak 70 Siliguri 71 Salem 72 Kota 73 Ajmer 74 Rajamundry 75 Trichy 76 Gorakhpur 77 Haldwani 78 Guntur 79 Solan",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What is the required educational qualification to be a part of this program?",
+        "answer": "A student pursuing graduation or post-graduation (MBA) shall be eligible to participate in this program",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "When is the last date of application for MG Nurture Program?",
+        "answer": "This will be disclosed soon. Details will be mailed post enrolment.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What is the total duration of this program?",
+        "answer": "The program is built for 2 months. Candidates who are selected and are willing to participate further can engage for 2 more months after completion of initial period.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Where will the program be conducted?",
+        "answer": "The program will be conducted online through digital media. There will be some portion of on-ground work as well. Some candidates might be chosen to work along with MG Motor India dealerships as we",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "How can I apply for the MG Nurture Program?",
+        "answer": "You can click on this link here to register/enrol yourself for the program. Once enrolled, you will receive an Email confirmation of your enrolment and we will further communicate the steps in the process",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What documents are required to be furnished for this program?",
+        "answer": "Once shortlisted for the program, you will be asked to submit internship recommendation letter from college authority, education certificates etc. A complete list of required documents will be sent to selected candidates over emal",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Will I be given any certificate after completion of this Program?",
+        "answer": "Yes, you will be awarded a certificate from MG Motor India on successful completion of the program",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Do I need to have any prior work-experience to enrol for MG Nurture?",
+        "answer": "No, having work experience is not mandatory to enrol for MG Nurture program",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Do I need to have a laptop for this program?",
+        "answer": "While having a computer/tab will be a plus, a smartphone should be sufficient. In case you do not have either, a desk at the MG Dealership of your city can be provided for fixed hours to complete your project workÂ",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Can I also get employment opportunity with MG Motor?",
+        "answer": "The program will enhance your prospects of employability in the Auto Industry. The program doesnât guarantee any employment with MG Motor India or MG Dealerships.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "How many hours will I have to dedicate for the MG Nurture Program?",
+        "answer": "Candidates will be required to devote approximately 20 hours per week towards the MG Nurture Program",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Is MG Nurture Program available in my city?",
+        "answer": "Please check the city list",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Will I also be given any emoluments in this program?",
+        "answer": "Interns shall receive a monthly stipend as per below details: Â â¢ Pursuing Graduation -Â  Â Rs/- 15,000 per monthÂ â¢ Pursuing Post Graduation â Rs/- 20000 per monthÂ Â",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Will the MG Nurture Program require me to work in field as well?",
+        "answer": "MG India follows a flexible approach. If there is any work required to be done at field, you can also do it over weekendsÂ",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "How much education grant can I get if I decide to pursue Post Graduation?",
+        "answer": "MG Motor India will contribute 50% or Rs. 5 lac (whichever is less) towards your 2 year post graduate education/MBA if you are selected for the same! MG Motor Indiaâs decision in this regard will be considered as final.Â",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "MGDP 3.0",
+        "answer": "What is MG Developer Program & Grant? The MG Developer Program & Grant is developed to create an innovation platform of choice, for developers and innovators, that will encourage them to build new applications and experiences never imagined before in a car. The program is brought together by MG Motor in partnership with technology leaders Adobe, SAP, MapMyIndia. Koinearth, Bosch and Jio. It is open to external developers (students, innovators, inventors, start-ups, and other tech companies) as well as internal teams of intrapreneurs at MG Motor and partner companies. The program seeks solutions by verticals to make the entire automotive ecosystem better by developing in-car services. The theme for this year is Car as a Platform (CaaP) . Why Participate in this program? The program offers a unique opportunity for innovators and developers to work directly with MG Motor and its technology partners to bring solution to market quickly. The consortium behind the program shall provideÂ Specialized, high-level mentoring, relevant to practical development of the solution Learning and relevant content for solution and business development Business plan and modelling Provide testing/ lab facility where possible Network with other participants within the program to drive synergy Access to other startup and develop programs of consortium members, opening a large opportunity Recognition with PR opportunity for winning startups Access to a grant amount. (Award of grant would be at the sole discretion of program jury, based on their evaluation, on a case-to-case basis.) What is the methodology of the program? 1.Â Â Â Â  Submit application online on MG Developer Program and Grant website 2.Â Â Â Â  Shortlisted startups would be assigned a mentor to develop their ideas 3.Â Â Â Â  Present the idea on Demo Day (Dates and venue to be announced) to Jury 4.Â Â Â Â  Jury selects winners for grant and recognition 5.Â Â Â Â  Shortlisted companies and winners may also get opportunity to test/ develop their solutions with one of the member companies. This would be decided and enabled by the assigned mentor. How to apply for the program? Submit application with following details Â 1.Â Â Â Â  Company information â name, location, website, social, contact details 2.Â Â Â Â  Founder/ key person information â name and contact 3.Â Â Â Â  Company profile/ deck 4.Â Â Â Â  Category under which application is submitted 5.Â Â Â Â  Proposed solution in brief (100 words within box provided) 6.Â Â Â Â  What they seek from the Program for the solution 7.Â Â Â Â  Details of proposed solution to be submitted as either of ppt, doc, pdf, jpg and mpg Â  Â  Â  Â  Â  a.Â Â Â Â Â  Should include details of solution Â  Â  Â  Â  Â  b.Â Â Â Â  Stage of development Â  Â  Â  Â  Â  c.Â Â Â Â Â  Proposed business model Â  Â  Â  Â  Â  d.Â Â Â Â  Traction, revenue, if any Â  Â  Â  Â  Â  e.Â Â Â Â Â  Proposed cost of project/ development Â  Â  Â  Â  Â  f.Â Â Â Â Â Â  Lead developers of the solutionÂ What are the key dates*? Website and Announcement â December 01, 2021 Entries close by - January 15, 2021 Mentoring - January 16 â February 28 Demo day â March W2 at NCR (Tentative) * The current plan is as above. However, dates may change as per business requirements. What are the key categories in which I can participate*? 1.Â Â Â Â  Utilities 2.Â Â Â Â  Entertainment 3.Â Â Â Â  Travel and Navigation 4.Â Â Â Â  Security and privacy 5.Â Â Â Â  Payments & Rewards 6.Â Â Â Â  Commerce 7.Â Â Â Â  Others * For more details, refer to the MG Developer and Grant website Who can participate in this program? It is open to external developers (students, innovators, inventors, start-ups, and other tech companies) as well as internal teams of intrapreneurs at MG Motor and partner companies. Which other companies are shortlisted under MG Developer Program & Grant last year? Total 8 start-ups have been shortlisted in phase II of MG Developer and Grant Program 1.Â Â Â Â  MIHUP: Mihup is building a Voice AI platform for enterprises such as customer contact centres, Automotive & TV OEMs. The platform enables enterprise developers to create customized voice interfaces with full control over brand identity and privacy. The interaction analytics solution provided by MIHUP gives 100% analysis of a call centreâs customer interactions to derive actionable insights to improve sales, collection, and customer services. It is an enterprise ready platform for both native cloud and edge deployments. 2.Â Â Â Â  REDBOT: RedBot Innovations provides machine vision, computer vision and image processing turnkey solutions with an intent to help manufacturing organizations improve their quality inspection processes. They provide high value addition to manufacturing process like surface defect inspection, presence /absence of parts, total products count and many more. The technology reduces cost of production at all levels, at the same time reducing human errors. Â 3.Â Â Â Â  ELECTREEFI: Electreefi or TechPerspect, is an Information Technology and eMobility solutions company based out of Noida, Delhi NCR. They are experts in implementation of IoT based eMobility Solutions. They have created an IoT based eMobility Technology Platform that has various components and offerings for both businesses and end customers. They have done extensive work in the Electric Vehicle (EV) domain in association with the leading stake holders in the Indian industry. Â 4.Â Â Â Â  KOINEARTH: Koinearth is a startup working at the intersection of blockchains, machine learning and mechanism design. Koinearth create networks, markets, and economies with trusted information and incentives. Their marketN platform allows supply chains to deliver faster, to reduce their operating costs all while having organizations maintain control over data as an asset. Â 5.Â Â Â Â  FABRIK: Designed especially for creatives, Fabrik makes it easy for to create professional websites that showcase the work. They design and build portfolio in a customized way. The platform connects to the services you already use, which means you can add your work easily, and share it to your social networks quickly. Â 6.Â Â Â Â  ORXA: Orxa Energies is a high-performance electric vehicle and energy systems startup. They want to rapidly electrify all transport. Orxa does this through their fully electric performance vehicles and their performance battery packs. Orxa is capital-efficient, works through first principles and builds \"design with function\" in all their products. Â 7.Â Â Â Â  GREENTECH: Grinntech offers solutions that are on the forefront of innovation for demanding EV customers, from fully integrated battery packs and off-the-shelf products to custom engineered solutions and battery analytics. Grinntech is passionate about playing a role in electrification of mobility since Mobility for the Future needs to be environmentally sustainable, economically affordable, and socially fun. Â 8.Â Â Â Â  AVATAAR: Avataar.Me is a 3D AI company that helps large enterprise customers create immersive and interactive shopping experiences for their end consumers. Avataarâs vision is to bridge the gap between offline-online experiences by replacing the current 2D visuals with life-size and hyper-realistic 3D XR/AR experiences. Avataarâs use of AR technology brings spatial depth to the onscreen buying/browsing experience. Â What is the Grant amount provided? How much MG has invested? The objective of MG Developer Program and Grant is to develop innovation platform and make the entire automotive ecosystem better by developing new applications The Grant amount under MG Developer and Grant program is different on case-to-case basis. What is the timeline of projects? The timeline of each project will differ on case-to-case basis. Is there any limitation on team size? A maximum of 5 people can be there. No cap on minimum members. Is any background set up of Start-up is necessary for students? No, anyone with an idea can leverage this platform.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What is MG Developer Program & Grant?",
+        "answer": "The MG Developer Program & Grant is developed to create an innovation platform of choice, for developers and innovators, that will encourage them to build new applications and experiences never imagined before in a car. The program is brought together by MG Motor in partnership with technology leaders Adobe, SAP, MapMyIndia. Koinearth, Bosch and Jio. It is open to external developers (students, innovators, inventors, start-ups, and other tech companies) as well as internal teams of intrapreneurs at MG Motor and partner companies. The program seeks solutions by verticals to make the entire automotive ecosystem better by developing in-car services. The theme for this year is Car as a Platform (CaaP) .",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Why Participate in this program?",
+        "answer": "The program offers a unique opportunity for innovators and developers to work directly with MG Motor and its technology partners to bring solution to market quickly. The consortium behind the program shall provideÂ Specialized, high-level mentoring, relevant to practical development of the solution Learning and relevant content for solution and business development Business plan and modelling Provide testing/ lab facility where possible Network with other participants within the program to drive synergy Access to other startup and develop programs of consortium members, opening a large opportunity Recognition with PR opportunity for winning startups Access to a grant amount. (Award of grant would be at the sole discretion of program jury, based on their evaluation, on a case-to-case basis.)",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What is the methodology of the program?",
+        "answer": "1.Â Â Â Â  Submit application online on MG Developer Program and Grant website 2.Â Â Â Â  Shortlisted startups would be assigned a mentor to develop their ideas 3.Â Â Â Â  Present the idea on Demo Day (Dates and venue to be announced) to Jury 4.Â Â Â Â  Jury selects winners for grant and recognition 5.Â Â Â Â  Shortlisted companies and winners may also get opportunity to test/ develop their solutions with one of the member companies. This would be decided and enabled by the assigned mentor.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "How to apply for the program?",
+        "answer": "Submit application with following details Â 1.Â Â Â Â  Company information â name, location, website, social, contact details 2.Â Â Â Â  Founder/ key person information â name and contact 3.Â Â Â Â  Company profile/ deck 4.Â Â Â Â  Category under which application is submitted 5.Â Â Â Â  Proposed solution in brief (100 words within box provided) 6.Â Â Â Â  What they seek from the Program for the solution 7.Â Â Â Â  Details of proposed solution to be submitted as either of ppt, doc, pdf, jpg and mpg Â  Â  Â  Â  Â  a.Â Â Â Â Â  Should include details of solution Â  Â  Â  Â  Â  b.Â Â Â Â  Stage of development Â  Â  Â  Â  Â  c.Â Â Â Â Â  Proposed business model Â  Â  Â  Â  Â  d.Â Â Â Â  Traction, revenue, if any Â  Â  Â  Â  Â  e.Â Â Â Â Â  Proposed cost of project/ development Â  Â  Â  Â  Â  f.Â Â Â Â Â Â  Lead developers of the solutionÂ",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What are the key dates*?",
+        "answer": "Website and Announcement â December 01, 2021 Entries close by - January 15, 2021 Mentoring - January 16 â February 28 Demo day â March W2 at NCR (Tentative) * The current plan is as above. However, dates may change as per business requirements.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What are the key categories in which I can participate*?",
+        "answer": "1.Â Â Â Â  Utilities 2.Â Â Â Â  Entertainment 3.Â Â Â Â  Travel and Navigation 4.Â Â Â Â  Security and privacy 5.Â Â Â Â  Payments & Rewards 6.Â Â Â Â  Commerce 7.Â Â Â Â  Others * For more details, refer to the MG Developer and Grant website",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Who can participate in this program?",
+        "answer": "It is open to external developers (students, innovators, inventors, start-ups, and other tech companies) as well as internal teams of intrapreneurs at MG Motor and partner companies.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Which other companies are shortlisted under MG Developer Program & Grant last year?",
+        "answer": "Total 8 start-ups have been shortlisted in phase II of MG Developer and Grant Program 1.Â Â Â Â  MIHUP: Mihup is building a Voice AI platform for enterprises such as customer contact centres, Automotive & TV OEMs. The platform enables enterprise developers to create customized voice interfaces with full control over brand identity and privacy. The interaction analytics solution provided by MIHUP gives 100% analysis of a call centreâs customer interactions to derive actionable insights to improve sales, collection, and customer services. It is an enterprise ready platform for both native cloud and edge deployments. 2.Â Â Â Â  REDBOT: RedBot Innovations provides machine vision, computer vision and image processing turnkey solutions with an intent to help manufacturing organizations improve their quality inspection processes. They provide high value addition to manufacturing process like surface defect inspection, presence /absence of parts, total products count and many more. The technology reduces cost of production at all levels, at the same time reducing human errors. Â 3.Â Â Â Â  ELECTREEFI: Electreefi or TechPerspect, is an Information Technology and eMobility solutions company based out of Noida, Delhi NCR. They are experts in implementation of IoT based eMobility Solutions. They have created an IoT based eMobility Technology Platform that has various components and offerings for both businesses and end customers. They have done extensive work in the Electric Vehicle (EV) domain in association with the leading stake holders in the Indian industry. Â 4.Â Â Â Â  KOINEARTH: Koinearth is a startup working at the intersection of blockchains, machine learning and mechanism design. Koinearth create networks, markets, and economies with trusted information and incentives. Their marketN platform allows supply chains to deliver faster, to reduce their operating costs all while having organizations maintain control over data as an asset. Â 5.Â Â Â Â  FABRIK: Designed especially for creatives, Fabrik makes it easy for to create professional websites that showcase the work. They design and build portfolio in a customized way. The platform connects to the services you already use, which means you can add your work easily, and share it to your social networks quickly. Â 6.Â Â Â Â  ORXA: Orxa Energies is a high-performance electric vehicle and energy systems startup. They want to rapidly electrify all transport. Orxa does this through their fully electric performance vehicles and their performance battery packs. Orxa is capital-efficient, works through first principles and builds \"design with function\" in all their products. Â 7.Â Â Â Â  GREENTECH: Grinntech offers solutions that are on the forefront of innovation for demanding EV customers, from fully integrated battery packs and off-the-shelf products to custom engineered solutions and battery analytics. Grinntech is passionate about playing a role in electrification of mobility since Mobility for the Future needs to be environmentally sustainable, economically affordable, and socially fun. Â 8.Â Â Â Â  AVATAAR: Avataar.Me is a 3D AI company that helps large enterprise customers create immersive and interactive shopping experiences for their end consumers. Avataarâs vision is to bridge the gap between offline-online experiences by replacing the current 2D visuals with life-size and hyper-realistic 3D XR/AR experiences. Avataarâs use of AR technology brings spatial depth to the onscreen buying/browsing experience. Â",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What is the Grant amount provided? How much MG has invested?",
+        "answer": "The objective of MG Developer Program and Grant is to develop innovation platform and make the entire automotive ecosystem better by developing new applications The Grant amount under MG Developer and Grant program is different on case-to-case basis.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What is the timeline of projects?",
+        "answer": "The timeline of each project will differ on case-to-case basis.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Is there any limitation on team size?",
+        "answer": "A maximum of 5 people can be there. No cap on minimum members.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Is any background set up of Start-up is necessary for students?",
+        "answer": "No, anyone with an idea can leverage this platform.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Drive Her Back",
+        "answer": "How can I apply for this program? You can apply by visiting our websiteÂ https://www.mgmotor.co.in/drive-her-back-2 What minimum experience is required to apply? Min 2 years of Industrial experience in relevant function / field. What kind of employment will the company provide under DHB program? Selected returnees will be offered the position of Project Team Member for the period of one year. Based on the performance throughout the year and availability of Headcount specific to the role at that point in time, there is a possibility of absorption after completing 1 year association as project member with MGI Am I eligible for DHB program? You are eligible to apply for DHB Season 2, if you have relevant competencies and have taken a career break of at least 6 months. This career break is due to health reasons, personal reason, maternity break, lay off due to downsizing etc. What will be the nature of job assigned to me? You will be assigned projects basis your education qualification, experience and skill set acquired during your previous stints.Â What will be the hiring process? After the initial screening of profiles, candidates will have to undergo rounds of interviews (Online)- Functional and HR. Selected candidates will receive an offer letter from MG Motor. What will be the compensation? It is not fixed. It will depend on the last drawn CTC, years of experience, market benchmark for that particular position. Will there be someone who can guide me during my stint? You will be assigned a mentor who will guide you to accomplish your given tasks and responsibilities Â What will be the date of Joining? January 1 st week 2021 (tentative) What will be the base location? Â For plant functions like Manufacturing, Quality, Manufacturing Engineering, Purchase, supply chain, Engineering, EHS, maintenance, HR and IT Finance - the location would be Halol which is 40 kms from main city of Baroda. For Sales and Marketing, Aftersales, Dealer Development, Legal, HR and Finance it would be at Gurgaon Â Are there any age criteria? No, there is no such age criteria. What facilities will the company provide? If the location is Halol - Bus Transportation, Uniform, Canteen Facility, Creche (closed due to pandemic) For Gurgaon - We have creche and Cafeteria (both are closed due to pandemic) Does the company provide accommodation? Company will provide 10 days of accommodation in hotel during joining if coming from other location. During this period youâll have to find permanent stay arrangements for yourself Will I need to travel in my role? It will depend on your role and organizational requirement. It will be cleared by the department heads during the interview process Will I need to join in person if the pandemic situation continues? The organisation will take a call on it once the joining date is confirmed Will I be applicable for travel allowance and food allowance if my base location changes permanently in future? You will be entitled to food allowance and conveyance allowance as per base location.Â Will I get travel allowance and food allowance if I travel to different locations due to business requirement? Yes, you will be applicable for both the reimbursements as per the policy limits.Â",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "How can I apply for this program?",
+        "answer": "You can apply by visiting our websiteÂ https://www.mgmotor.co.in/drive-her-back-2",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What minimum experience is required to apply?",
+        "answer": "Min 2 years of Industrial experience in relevant function / field.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What kind of employment will the company provide under DHB program?",
+        "answer": "Selected returnees will be offered the position of Project Team Member for the period of one year. Based on the performance throughout the year and availability of Headcount specific to the role at that point in time, there is a possibility of absorption after completing 1 year association as project member with MGI",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Am I eligible for DHB program?",
+        "answer": "You are eligible to apply for DHB Season 2, if you have relevant competencies and have taken a career break of at least 6 months. This career break is due to health reasons, personal reason, maternity break, lay off due to downsizing etc.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What will be the nature of job assigned to me?",
+        "answer": "You will be assigned projects basis your education qualification, experience and skill set acquired during your previous stints.Â",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What will be the hiring process?",
+        "answer": "After the initial screening of profiles, candidates will have to undergo rounds of interviews (Online)- Functional and HR. Selected candidates will receive an offer letter from MG Motor.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What will be the compensation?",
+        "answer": "It is not fixed. It will depend on the last drawn CTC, years of experience, market benchmark for that particular position.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Will there be someone who can guide me during my stint?",
+        "answer": "You will be assigned a mentor who will guide you to accomplish your given tasks and responsibilities Â",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What will be the date of Joining?",
+        "answer": "January 1 st week 2021 (tentative)",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What will be the base location?",
+        "answer": "Â For plant functions like Manufacturing, Quality, Manufacturing Engineering, Purchase, supply chain, Engineering, EHS, maintenance, HR and IT Finance - the location would be Halol which is 40 kms from main city of Baroda. For Sales and Marketing, Aftersales, Dealer Development, Legal, HR and Finance it would be at Gurgaon Â",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Are there any age criteria?",
+        "answer": "No, there is no such age criteria.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What facilities will the company provide?",
+        "answer": "If the location is Halol - Bus Transportation, Uniform, Canteen Facility, Creche (closed due to pandemic) For Gurgaon - We have creche and Cafeteria (both are closed due to pandemic)",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Does the company provide accommodation?",
+        "answer": "Company will provide 10 days of accommodation in hotel during joining if coming from other location. During this period youâll have to find permanent stay arrangements for yourself",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Will I need to travel in my role?",
+        "answer": "It will depend on your role and organizational requirement. It will be cleared by the department heads during the interview process",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Will I need to join in person if the pandemic situation continues?",
+        "answer": "The organisation will take a call on it once the joining date is confirmed",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Will I be applicable for travel allowance and food allowance if my base location changes permanently in future?",
+        "answer": "You will be entitled to food allowance and conveyance allowance as per base location.Â",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Will I get travel allowance and food allowance if I travel to different locations due to business requirement?",
+        "answer": "Yes, you will be applicable for both the reimbursements as per the policy limits.Â",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "MG Reassure",
+        "answer": "What is Reassure Program ? MG Motor India has launched its Certified Pre-Loved Car Vertical, âMG Reassureâ, in India. The aim of MG Reassure is to provide a quick and best residual value for MG cars to MG customers across its dealerships. Also through this program , MG Motor India wants to give its pre owned car buyers an experience at par with the new car buying experience.Â Why should I sell to you ? We at MG are making all the efforts that our customers get the best value for their existing vehicles. To ensure the transparency and best value realization we have launched this program. Also we will ensure a complete peace of mind as the vehicles would be sold and the Transfer of registration would be overlooked by MG Authorized dealerships.Â What is the security if I sell to you ? All the vehicle sold to us would be sold to end customers and we would ensure the RC transfer of the vehicle is done. Thus a complete peace of mind would be ensuredÂ If I just want to sell my existing MG and not buy a new MG , would you still take my car ? The program is launched to facilitate all existing MG users and even if you are not willing to buy a New MG, we will still take your vehicle .Â Why should I buy a pre loved / pre owned car from you ? At MG we know our products best and also the proposition of quality and value offering is best in the market. Under this program all the vehicles have a quality assurance backed by a min 3 yr warranty for unlimited kms , ,in 3 yr RSA and min 3 labour free services. This is currently the best proposition in the market .Â All the certified vehicles would go under a rigorous quality check and are refurbished by genuine spares only.Â What are the benefits of buying a pre loved MG From you? oÂ Â Â Quality Assurance: Â  Â  Â  Â  Â  Â  Â  Â  Â  oÂ Â  Non-Accidental Vehicles Â  Â  Â  Â  Â  Â  Â  Â  Â  oÂ Â  Maintained by MG Authorized Dealerships Â  Â  Â  Â  Â  Â  Â  Â  Â  oÂ Â  Vehicles checked on 160+ pointsÂ Â Â Â  Â  Â  Â  Â  Â  Â  Â  Â  oÂ Â  Refurbished with Genuine spares oÂ Â Â Value Added Services [333] Â  Â  Â  Â  Â  Â  Â  Â  Â  oÂ Â  Min 3 Year / Unlimited Km Warranty Â  Â  Â  Â  Â  Â  Â  Â  Â  oÂ Â  Min3 Year RSA Â  Â  Â  Â  Â  Â  Â  Â  Â  oÂ Â  Min 3 Labor Free Service What the meaning of Certified Pre Loved ? Non-Accidental VehiclesÂ Maintained by MG Authorized Dealerships Vehicles checked on 160+ pointsÂ  Â Â Refurbished with genuine spares Can we avail a loan on Pre Loved cars? Yes , we have tie-up with all the financers and offer loans at very attractive interest rates.Â",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What is Reassure Program ?",
+        "answer": "MG Motor India has launched its Certified Pre-Loved Car Vertical, âMG Reassureâ, in India. The aim of MG Reassure is to provide a quick and best residual value for MG cars to MG customers across its dealerships. Also through this program , MG Motor India wants to give its pre owned car buyers an experience at par with the new car buying experience.Â",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Why should I sell to you ?",
+        "answer": "We at MG are making all the efforts that our customers get the best value for their existing vehicles. To ensure the transparency and best value realization we have launched this program. Also we will ensure a complete peace of mind as the vehicles would be sold and the Transfer of registration would be overlooked by MG Authorized dealerships.Â",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What is the security if I sell to you ?",
+        "answer": "All the vehicle sold to us would be sold to end customers and we would ensure the RC transfer of the vehicle is done. Thus a complete peace of mind would be ensuredÂ",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "If I just want to sell my existing MG and not buy a new MG , would you still take my car ?",
+        "answer": "The program is launched to facilitate all existing MG users and even if you are not willing to buy a New MG, we will still take your vehicle .Â",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Why should I buy a pre loved / pre owned car from you ?",
+        "answer": "At MG we know our products best and also the proposition of quality and value offering is best in the market. Under this program all the vehicles have a quality assurance backed by a min 3 yr warranty for unlimited kms , ,in 3 yr RSA and min 3 labour free services. This is currently the best proposition in the market .Â All the certified vehicles would go under a rigorous quality check and are refurbished by genuine spares only.Â",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What are the benefits of buying a pre loved MG From you?",
+        "answer": "oÂ Â Â Quality Assurance: Â  Â  Â  Â  Â  Â  Â  Â  Â  oÂ Â  Non-Accidental Vehicles Â  Â  Â  Â  Â  Â  Â  Â  Â  oÂ Â  Maintained by MG Authorized Dealerships Â  Â  Â  Â  Â  Â  Â  Â  Â  oÂ Â  Vehicles checked on 160+ pointsÂ Â Â Â  Â  Â  Â  Â  Â  Â  Â  Â  oÂ Â  Refurbished with Genuine spares oÂ Â Â Value Added Services [333] Â  Â  Â  Â  Â  Â  Â  Â  Â  oÂ Â  Min 3 Year / Unlimited Km Warranty Â  Â  Â  Â  Â  Â  Â  Â  Â  oÂ Â  Min3 Year RSA Â  Â  Â  Â  Â  Â  Â  Â  Â  oÂ Â  Min 3 Labor Free Service",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What the meaning of Certified Pre Loved ?",
+        "answer": "Non-Accidental VehiclesÂ Maintained by MG Authorized Dealerships Vehicles checked on 160+ pointsÂ  Â Â Refurbished with genuine spares",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Can we avail a loan on Pre Loved cars?",
+        "answer": "Yes , we have tie-up with all the financers and offer loans at very attractive interest rates.Â",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "FOTA",
+        "answer": "What do you mean by FOTA? FOTA stands for Firmware Over-The-Air. Owners of the MG Hector will be able to receive real time updates like new features, entertainment content and Software Updates to improve user experience from time to time without having to visit the dealership.Â What will be benefits of FOTA Update? One of the biggest advantages of connected car mobility is the ease of updating software, feature enhancements through OTA without visiting a dealership. FOTA updates are robust, reliable and provide easy access to upgrades.Â What will be the duration of download and update? The FOTA download & installation will take approximately 30 mins however as it is happening via internet so it will be depending on network signal strength & downloading Speed. Thanks!Â What will be impact on other applications while doing a download? You can use all application while DOWNLOADING however it will impact the downloading time and experience of other applications due to internet speed. For faster download we recommend not to use other applications. Thanks!Â How will I know that software is updated? Post completion of the update, the system will auto-generate a success message on the screen. While software is getting updated, it is necessary that engine must be on? It is required to keep the engine in start position and possibly in static condition in good network strength are to ensure seamless/uninterrupted update. If vehicle is moving it may have intermediate network strength and update process may get interrupt or may take more time. Why auto download is not possible? Auto-download can impact the experience of other applications which would be in use at that point. Hence, customers are given control to download the updates as per their convenience.Â Â What will be the steps to start the process? Please follow these steps to install the updates: Go to settings -> Upgrade -> Update Will I get the notifications for software update. Individual notifications wonât be shared/available, however company will release periodic SMS notifications and emailers to check the vehicle to stay tuned. The update will be rolled out to the customers in a phased manner, as per plan. What will happen if engine is stopped or update is interrupted? In case the download is interrupted If the engine is stopped while the download is in process, the user will have to resume the same by clicking on the âupdateâ tab under settings. Â In case the download is interrupted because of network issues, the system will resume download on its own. In case installation is interrupted Post the download, the updates cannot be interrupted manually by the user. Even if the Ignition is switched off, the updates will continue to run in the background. In case, the ignition is switched-off, User has to resume the operation for upgradation.Â What will happen if I will enter in a no network zone? In a bad/ no network zone, the download process will pause and will resume automatically once there is proper network. The download progress will not be impacted and will resume from the last point of update. During installation, network strength variation will not impact the installation progress. What happens in case the software installation is stuck and does not auto resume? This is a highly unlikely scenario as the software installation is thoroughly tested before it is released to the customer. However, in case if such a situation arises, Please Reboot the Head unit by long pressing the centre button. Shut down the car completely and step-out the car. Lock & Unlock the car once and then sitting inside the vehicle try once again to resume the operation. The customer should contact/visit the nearest dealer.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What do you mean by FOTA?",
+        "answer": "FOTA stands for Firmware Over-The-Air. Owners of the MG Hector will be able to receive real time updates like new features, entertainment content and Software Updates to improve user experience from time to time without having to visit the dealership.Â",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What will be benefits of FOTA Update?",
+        "answer": "One of the biggest advantages of connected car mobility is the ease of updating software, feature enhancements through OTA without visiting a dealership. FOTA updates are robust, reliable and provide easy access to upgrades.Â",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What will be the duration of download and update?",
+        "answer": "The FOTA download & installation will take approximately 30 mins however as it is happening via internet so it will be depending on network signal strength & downloading Speed. Thanks!Â",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What will be impact on other applications while doing a download?",
+        "answer": "You can use all application while DOWNLOADING however it will impact the downloading time and experience of other applications due to internet speed. For faster download we recommend not to use other applications. Thanks!Â",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "How will I know that software is updated?",
+        "answer": "Post completion of the update, the system will auto-generate a success message on the screen.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "While software is getting updated, it is necessary that engine must be on?",
+        "answer": "It is required to keep the engine in start position and possibly in static condition in good network strength are to ensure seamless/uninterrupted update. If vehicle is moving it may have intermediate network strength and update process may get interrupt or may take more time.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Why auto download is not possible?",
+        "answer": "Auto-download can impact the experience of other applications which would be in use at that point. Hence, customers are given control to download the updates as per their convenience.Â Â",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What will be the steps to start the process?",
+        "answer": "Please follow these steps to install the updates: Go to settings -> Upgrade -> Update",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Will I get the notifications for software update.",
+        "answer": "Individual notifications wonât be shared/available, however company will release periodic SMS notifications and emailers to check the vehicle to stay tuned. The update will be rolled out to the customers in a phased manner, as per plan.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What will happen if engine is stopped or update is interrupted?",
+        "answer": "In case the download is interrupted If the engine is stopped while the download is in process, the user will have to resume the same by clicking on the âupdateâ tab under settings. Â In case the download is interrupted because of network issues, the system will resume download on its own. In case installation is interrupted Post the download, the updates cannot be interrupted manually by the user. Even if the Ignition is switched off, the updates will continue to run in the background. In case, the ignition is switched-off, User has to resume the operation for upgradation.Â",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What will happen if I will enter in a no network zone?",
+        "answer": "In a bad/ no network zone, the download process will pause and will resume automatically once there is proper network. The download progress will not be impacted and will resume from the last point of update. During installation, network strength variation will not impact the installation progress.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What happens in case the software installation is stuck and does not auto resume?",
+        "answer": "This is a highly unlikely scenario as the software installation is thoroughly tested before it is released to the customer. However, in case if such a situation arises, Please Reboot the Head unit by long pressing the centre button. Shut down the car completely and step-out the car. Lock & Unlock the car once and then sitting inside the vehicle try once again to resume the operation. The customer should contact/visit the nearest dealer.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "MG Nurture",
+        "answer": "What is the MG Nurture Program? MG Nurture is a first-of-its-kind student support program that focuses on training students. The initiative will equip around 200 students with a market-focused skill set and make them future-ready.Â Â The primary course, Stage 1 is spread over 2 months and offers a bouquet of Webinars from Industry Experts, Skill Development Workshops from MG Partners and On Ground Projects. All selected candidates will go through this program and gain valuable skills and experience to improve their employability.Â Â Candidates who get selected further from Stage 1 will also be given an opportunity to work closely with MG Motor India in Industry best Marketing and Sales projects. This will be the part 2 of MG Nurture 2020 ProgramÂ Â Candidates who successfully complete Stage 2 of the project can win grants for further education or even employment opportunity with MG Motor India or its Dealerships across IndiaÂ What is the process for entry in the MG Nurture Program? Below are the steps in the process: A. Enrolment in the MG Nurture ProgramÂ B. Online Test C. Interview Each step will be an elimination stage and only candidates clearing one stage will go ahead for the next stage Is there any entry fee for the MG Nurture Program? No, MG Nurture is a social initiative of MG Motor India. There is no entry fee of any kind What is the main reason to establish this Nurture Program? Innovation, Community, Experience and Diversity being MG Motor Indiaâs core pillars, this initiative is aimed at equipping the student community with knowledge & skills that will enhance their career prospects in future. What will be the content of the MG Nurture Program? The program consists of 2 monthâs skill building workshops, webinars with Industry professionals and On the Job Training in select cities of India. For details, refer to Q1 In what cities will the program be run? There are a total 79 cities where the program will be run. Here is the list of such cities Sr. No. City 1 Delhi 2 Faridabad 3 Gurgaon 4 Noida 5 Ghaziabad 6 Bengaluru 7 Mumbai 8 Thane 9 Navi Mumbai 10 Pune 11 Ahmedabad 12 Hyderbabad 13 Chennai 14 Chandigarh 15 Lucknow 16 Jaipur 17 Kolkata 18 Surat 19 Indore 20 Vadodara 21 Cochin 22 Ludhiana 23 Jalandhar 24 Nagpur 25 Bhopal 26 Rajkot 27 Raipur 28 Goa 29 Calicut 30 Vijaywada 31 Thrissur 32 Vizag 33 Dehradun 34 Ranchi 35 Kanpur 36 Jodhpur 37 Udaipur 38 Karnal 39 Agra 40 Coimbatore 41 Guwahati 42 Kolhapur 43 Mysore 44 Jammu 45 Varanasi 46 Patna 47 Nasik 48 Trivendrum 49 Aurangabad 50 Gwalior 51 Jabalpur 52 Hubli 53 Madurai 54 Jamshedpur 55 Patiala 56 Bareily 57 Mangalore 58 Kottayam 59 Merrut 60 Pondicherry 61 Vapi 62 Gandhinagar 63 Dhanbad 64 Sonipat 65 Amritsar 66 Hisar 67 Ambala 68 Allahabad 69 Rohtak 70 Siliguri 71 Salem 72 Kota 73 Ajmer 74 Rajamundry 75 Trichy 76 Gorakhpur 77 Haldwani 78 Guntur 79 Solan What is the required educational qualification to be a part of this program? A student pursuing graduation or post-graduation (MBA) shall be eligible to participate in this program When is the last date of application for MG Nurture Program? This will be disclosed soon. Details will be mailed post enrolment. What is the total duration of this program? The program is built for 2 months. Candidates who are selected and are willing to participate further can engage for 2 more months after completion of initial period. Where will the program be conducted? The program will be conducted online through digital media. There will be some portion of on-ground work as well. Some candidates might be chosen to work along with MG Motor India dealerships as we How can I apply for the MG Nurture Program? You can click on this link here to register/enrol yourself for the program. Once enrolled, you will receive an Email confirmation of your enrolment and we will further communicate the steps in the process What documents are required to be furnished for this program? Once shortlisted for the program, you will be asked to submit internship recommendation letter from college authority, education certificates etc. A complete list of required documents will be sent to selected candidates over emal Will I be given any certificate after completion of this Program? Yes, you will be awarded a certificate from MG Motor India on successful completion of the program Do I need to have any prior work-experience to enrol for MG Nurture? No, having work experience is not mandatory to enrol for MG Nurture program Do I need to have a laptop for this program? While having a computer/tab will be a plus, a smartphone should be sufficient. In case you do not have either, a desk at the MG Dealership of your city can be provided for fixed hours to complete your project workÂ Can I also get employment opportunity with MG Motor? The program will enhance your prospects of employability in the Auto Industry. The program doesnât guarantee any employment with MG Motor India or MG Dealerships. How many hours will I have to dedicate for the MG Nurture Program? Candidates will be required to devote approximately 20 hours per week towards the MG Nurture Program Is MG Nurture Program available in my city? Please check the city list Will I also be given any emoluments in this program? Interns shall receive a monthly stipend as per below details: Â â¢ Pursuing Graduation -Â  Â Rs/- 15,000 per monthÂ â¢ Pursuing Post Graduation â Rs/- 20000 per monthÂ Â Will the MG Nurture Program require me to work in field as well? MG India follows a flexible approach. If there is any work required to be done at field, you can also do it over weekendsÂ How much education grant can I get if I decide to pursue Post Graduation? MG Motor India will contribute 50% or Rs. 5 lac (whichever is less) towards your 2 year post graduate education/MBA if you are selected for the same! MG Motor Indiaâs decision in this regard will be considered as final.Â",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What is the MG Nurture Program?",
+        "answer": "MG Nurture is a first-of-its-kind student support program that focuses on training students. The initiative will equip around 200 students with a market-focused skill set and make them future-ready.Â Â The primary course, Stage 1 is spread over 2 months and offers a bouquet of Webinars from Industry Experts, Skill Development Workshops from MG Partners and On Ground Projects. All selected candidates will go through this program and gain valuable skills and experience to improve their employability.Â Â Candidates who get selected further from Stage 1 will also be given an opportunity to work closely with MG Motor India in Industry best Marketing and Sales projects. This will be the part 2 of MG Nurture 2020 ProgramÂ Â Candidates who successfully complete Stage 2 of the project can win grants for further education or even employment opportunity with MG Motor India or its Dealerships across IndiaÂ",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What is the process for entry in the MG Nurture Program?",
+        "answer": "Below are the steps in the process: A. Enrolment in the MG Nurture ProgramÂ B. Online Test C. Interview Each step will be an elimination stage and only candidates clearing one stage will go ahead for the next stage",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Is there any entry fee for the MG Nurture Program?",
+        "answer": "No, MG Nurture is a social initiative of MG Motor India. There is no entry fee of any kind",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What is the main reason to establish this Nurture Program?",
+        "answer": "Innovation, Community, Experience and Diversity being MG Motor Indiaâs core pillars, this initiative is aimed at equipping the student community with knowledge & skills that will enhance their career prospects in future.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What will be the content of the MG Nurture Program?",
+        "answer": "The program consists of 2 monthâs skill building workshops, webinars with Industry professionals and On the Job Training in select cities of India. For details, refer to Q1",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "In what cities will the program be run?",
+        "answer": "There are a total 79 cities where the program will be run. Here is the list of such cities Sr. No. City 1 Delhi 2 Faridabad 3 Gurgaon 4 Noida 5 Ghaziabad 6 Bengaluru 7 Mumbai 8 Thane 9 Navi Mumbai 10 Pune 11 Ahmedabad 12 Hyderbabad 13 Chennai 14 Chandigarh 15 Lucknow 16 Jaipur 17 Kolkata 18 Surat 19 Indore 20 Vadodara 21 Cochin 22 Ludhiana 23 Jalandhar 24 Nagpur 25 Bhopal 26 Rajkot 27 Raipur 28 Goa 29 Calicut 30 Vijaywada 31 Thrissur 32 Vizag 33 Dehradun 34 Ranchi 35 Kanpur 36 Jodhpur 37 Udaipur 38 Karnal 39 Agra 40 Coimbatore 41 Guwahati 42 Kolhapur 43 Mysore 44 Jammu 45 Varanasi 46 Patna 47 Nasik 48 Trivendrum 49 Aurangabad 50 Gwalior 51 Jabalpur 52 Hubli 53 Madurai 54 Jamshedpur 55 Patiala 56 Bareily 57 Mangalore 58 Kottayam 59 Merrut 60 Pondicherry 61 Vapi 62 Gandhinagar 63 Dhanbad 64 Sonipat 65 Amritsar 66 Hisar 67 Ambala 68 Allahabad 69 Rohtak 70 Siliguri 71 Salem 72 Kota 73 Ajmer 74 Rajamundry 75 Trichy 76 Gorakhpur 77 Haldwani 78 Guntur 79 Solan",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What is the required educational qualification to be a part of this program?",
+        "answer": "A student pursuing graduation or post-graduation (MBA) shall be eligible to participate in this program",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "When is the last date of application for MG Nurture Program?",
+        "answer": "This will be disclosed soon. Details will be mailed post enrolment.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What is the total duration of this program?",
+        "answer": "The program is built for 2 months. Candidates who are selected and are willing to participate further can engage for 2 more months after completion of initial period.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Where will the program be conducted?",
+        "answer": "The program will be conducted online through digital media. There will be some portion of on-ground work as well. Some candidates might be chosen to work along with MG Motor India dealerships as we",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "How can I apply for the MG Nurture Program?",
+        "answer": "You can click on this link here to register/enrol yourself for the program. Once enrolled, you will receive an Email confirmation of your enrolment and we will further communicate the steps in the process",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "What documents are required to be furnished for this program?",
+        "answer": "Once shortlisted for the program, you will be asked to submit internship recommendation letter from college authority, education certificates etc. A complete list of required documents will be sent to selected candidates over emal",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Will I be given any certificate after completion of this Program?",
+        "answer": "Yes, you will be awarded a certificate from MG Motor India on successful completion of the program",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Do I need to have any prior work-experience to enrol for MG Nurture?",
+        "answer": "No, having work experience is not mandatory to enrol for MG Nurture program",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Do I need to have a laptop for this program?",
+        "answer": "While having a computer/tab will be a plus, a smartphone should be sufficient. In case you do not have either, a desk at the MG Dealership of your city can be provided for fixed hours to complete your project workÂ",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Can I also get employment opportunity with MG Motor?",
+        "answer": "The program will enhance your prospects of employability in the Auto Industry. The program doesnât guarantee any employment with MG Motor India or MG Dealerships.",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "How many hours will I have to dedicate for the MG Nurture Program?",
+        "answer": "Candidates will be required to devote approximately 20 hours per week towards the MG Nurture Program",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Is MG Nurture Program available in my city?",
+        "answer": "Please check the city list",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Will I also be given any emoluments in this program?",
+        "answer": "Interns shall receive a monthly stipend as per below details: Â â¢ Pursuing Graduation -Â  Â Rs/- 15,000 per monthÂ â¢ Pursuing Post Graduation â Rs/- 20000 per monthÂ Â",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "Will the MG Nurture Program require me to work in field as well?",
+        "answer": "MG India follows a flexible approach. If there is any work required to be done at field, you can also do it over weekendsÂ",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    },
+    {
+        "question": "How much education grant can I get if I decide to pursue Post Graduation?",
+        "answer": "MG Motor India will contribute 50% or Rs. 5 lac (whichever is less) towards your 2 year post graduate education/MBA if you are selected for the same! MG Motor Indiaâs decision in this regard will be considered as final.Â",
+        "source": "https://www.crystalmgmotor.com/tools/faq.html"
+    }
+]

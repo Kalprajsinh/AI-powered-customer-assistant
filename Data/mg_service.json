@@ -1,0 +1,54 @@
+{
+  "brand": "MG Motor India",
+  "category": "service",
+  "data": [
+    {
+      "title": "Service Booking",
+      "content": "Customers can book car service online through the MG Motor India service platform. Available for models like Hector, Astor, ZS EV, and Gloster.",
+      "tags": ["booking", "service", "maintenance"],
+      "source": "https://www.mgmotor.co.in/service"
+    },
+    {
+      "title": "Shield Protect Plan",
+      "content": "MG Shield Protect offers prepaid maintenance plans for up to 5 years. It covers periodic service, wear and tear parts, and protection packages.",
+      "tags": ["maintenance", "subscription", "protection"],
+      "source": "https://www.mgmotor.co.in/service"
+    },
+    {
+      "title": "Roadside Assistance",
+      "content": "24x7 roadside assistance is available for breakdowns and emergencies. Customers can call 1800-100-6464 for immediate support.",
+      "tags": ["support", "emergency", "rsa"],
+      "source": "https://www.mgmotor.co.in/service"
+    },
+    {
+      "title": "Owner Manual",
+      "content": "Customers can download owner manuals, e-manuals, and warranty documents for all MG vehicles from the service portal.",
+      "tags": ["documents", "manual", "guide"],
+      "source": "https://www.mgmotor.co.in/service"
+    },
+    {
+      "title": "Cost of Ownership",
+      "content": "MG provides cost of ownership estimates including maintenance cost per kilometer for petrol and diesel vehicles.",
+      "tags": ["cost", "ownership", "maintenance"],
+      "source": "https://www.mgmotor.co.in/service"
+    },
+    {
+      "title": "Service Network",
+      "content": "MG Motor India has an extensive service network across multiple cities with authorized service centers and trained technicians.",
+      "tags": ["network", "service center", "locations"],
+      "source": "https://www.mgmotor.co.in/service"
+    },
+    {
+      "title": "Customer Support",
+      "content": "MG offers customer support services including helpline, email support, and dealership assistance for all service-related queries.",
+      "tags": ["support", "help", "customer care"],
+      "source": "https://www.mgmotor.co.in/service"
+    },
+    {
+      "title": "Digital Service Experience",
+      "content": "MG provides a digital-first service experience including online booking, real-time updates, and connected car service tracking.",
+      "tags": ["digital", "connected car", "tracking"],
+      "source": "https://www.mgmotor.co.in/service"
+    }
+  ]
+}

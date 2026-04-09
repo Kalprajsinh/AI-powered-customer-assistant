@@ -1,0 +1,30 @@
+MG Motor India's booking flow allows customers to e-book vehicles via their official website or the My MG App. The process involves selecting a model/variant, entering personal details, choosing a dealership, paying the booking amount, and receiving a unique Booking ID for tracking. [1, 2, 3, 4, 5]  
+Steps to Book an MG Car Online: 
+
+1. Visit Site: Go to the MG Motor India e-booking page. 
+2. Select Vehicle: Choose the desired model, variant, exterior color, and interior options. 
+3. Enter Details: Enter personal information (Name, Mobile, Email) and verify via OTP. 
+4. Select Dealership: Enter the city pincode to select the preferred dealership. 
+5. Payment: Confirm the booking amount and make the payment online. 
+6. Confirmation: A unique Booking ID is generated, sent via email/SMS for tracking. [1, 3, 4]  
+
+Key Aspects of the MG Booking Flow: 
+
+• Tracking: Customers can track their booking status using the Online Booking Tracking tool. 
+• App Usage: The My MG App allows for service booking, vehicle pickup, and tracking. 
+• Pre-Reservation: Optional, allowing customers to receive a unique ID to prioritize their booking. 
+• Finalization: Customers can use the Online Booking Completion page to finalize, add finance options, or buy accessories. 
+• Cancellation: If needed, booking cancellation can be done online, with specific rules for older bookings. [2, 4, 6, 7, 8]  
+
+Note: All bookings are subject to availability and variant choices. [9]  
+
+[1] https://www.mgmotor.co.in/vehicles/mg-ebooking
+[2] https://www.youtube.com/watch?v=ULxi-N3Us3g
+[3] https://www.ndtvprofit.com/india/mg-comet-ev-booking-begins-heres-how-you-can-book-the-no-nonsense-car-starting-at-rs-798-lakh-bqc-10821825
+[4] https://www.mgmotor.co.in/pre-reserve-terms-and-conditions
+[5] https://www.mgmotor.co.in/media-center/newsroom/mg-motor-india-introduces-mg-healthline-a-24x7-medical-consultation-facility
+[6] https://www.mgmotor.co.in/tools/complete-your-booking
+[7] https://www.mgmotor.co.in/tools/booking-status
+[8] https://www.mgmotor.co.in/tools/cancel-ebooking
+[9] https://qa.mgdelhi-west.adobecqms.net/tools/ebooking
+

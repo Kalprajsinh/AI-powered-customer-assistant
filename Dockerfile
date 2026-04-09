@@ -3,21 +3,31 @@ FROM python:3.13-slim
 WORKDIR /app
 
 # Install uv
-RUN pip install --no-cache-dir uv
+RUN pip install uv
 
-# Install runtime dependencies
-RUN apt-get update && apt-get install -y --no-install-recommends \
-    curl \
-    redis-server \
-    && rm -rf /var/lib/apt/lists/*
+# Copy dependency files
+COPY pyproject.toml .
 
-COPY pyproject.toml uv.lock ./
-RUN uv sync --frozen --no-dev
+# Install dependencies
+RUN uv pip install --system -r pyproject.toml 2>/dev/null || \
+    uv pip install --system \
+    faiss-cpu \
+    fastapi \
+    groq \
+    langchain \
+    langchain-community \
+    langchain-google-genai \
+    langchain-groq \
+    langchain-redis \
+    pypdf \
+    python-dotenv \
+    redis \
+    sentence-transformers \
+    "uvicorn[standard]"
 
-COPY . ./
-
-RUN chmod +x /app/start.sh
+# Copy the entire project
+COPY . .
 
 EXPOSE 8000
 
-CMD ["/app/start.sh"]
+CMD ["uvicorn", "app.server:app", "--host", "0.0.0.0", "--port", "8000"]
