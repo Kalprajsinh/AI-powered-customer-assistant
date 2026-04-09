@@ -13,7 +13,7 @@ def create_qa_client():
     client = ChatGroq(
         model="llama-3.3-70b-versatile",
         temperature=0.7,
-        groq_api_key=api_key,
+        api_key=api_key,
     )
 
     return client

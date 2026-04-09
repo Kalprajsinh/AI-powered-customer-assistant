@@ -49,6 +49,8 @@ Context:
         config={"configurable": {"session_id": session_id}},
     )
 
+    print(response.content)
+
     return {
         "result": response.content,
         # "result": response,
