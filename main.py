@@ -29,7 +29,7 @@ def main():
     for query in example_queries:
         print(f"- {query}")
 
-    session_id = "test_1"  
+    session_id = "test_2"  
     while True:
         query = input("\nAsk a question (or 'quit' to exit): ")
         if query.lower() == 'quit':
